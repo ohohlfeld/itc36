@@ -1,0 +1,40 @@
+# Leave empty, otherwise it won't work with cusotm domains.
+# Github will automatically fill in the correct string.
+# Still, make sure to use {{ site.baseurl }} when using absolute paths.
+baseurl: ""
+
+title: "ITC 31"
+conference-number: "31st"
+conference-name: "ITC 31"
+conference-subname: "Networked Systems and Services"
+conference-date: "27. - 29. August 2019"
+conference-location: "Budapest"
+conference-location-detail: "Budapest University of Technology and Economics, Hungary"
+conference-domain: "https://itc31.itc-conference.org"
+conference-mail: "itc31@lists.i-teletraffic.org"
+
+# news pagination
+paginate: 10
+paginate_path: "/news/page:num/"
+
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: "default"
+    -
+        scope:
+            path: ""
+            type: "posts"
+        values:
+            layout: "post"
+
+exclude: [ "Gemfile", "Gemfile.lock", "README.md" ]
+theme: null
+plugins:
+    - jekyll-seo-tag
+
+# deployment
+host: 127.0.0.1
+port: 4000

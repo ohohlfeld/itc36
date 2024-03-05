@@ -1,0 +1,58 @@
+---
+title: News
+menu: top-nav
+menu-index: 1
+---
+
+<h1>News</h1>
+<br/>
+{% for post in paginator.posts %}
+<div>
+  <h1><a href="{{ post.url | relative_url }}"> {{ post.title }}</a></h1>
+  <p>
+    {% capture postdate %}
+    {{ post.date }}
+    {% endcapture %}
+    <i> {% include insertpostdate date=postdate %}</i>, by: {{ post.author }}<br/>
+    {{ post.excerpt | strip_html | strip_newlines | truncate: 100 }}
+    <a href="{{ post.url | relative_url }}"> Read more </a>
+  </p>
+  <br/><br/>
+</div>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<nav class="page-navigation">
+    <ul class="typo3-widget-paginator">
+        {% if paginator.previous_page %}
+        <li class="previous">
+            <a href="{{ paginator.previous_page_path | relative_url }}">previous</a>
+        </li>
+        {% endif %}
+
+        {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+        <li class="current">{{ page }}</li>
+        {% else %}
+        <li>
+            {% if page == 1 %}
+            <a href="{{ site.baseurl }}/news/index.html">
+                {{ page }}
+            </a>
+            {% else %}
+            <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">
+                {{ page }}
+            </a>
+            {% endif %}
+        </li>
+        {% endif %}
+        {% endfor %}
+
+        {% if paginator.next_page %}
+        <li class="next">
+            <a href="{{ paginator.next_page_path | relative_url }}">next</a>
+        </li>
+        {% endif %}
+    </ul>
+</nav>
+{% endif %}

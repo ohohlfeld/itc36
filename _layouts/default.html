@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8" />
+
+    <title>
+        {{ page.title }} - {{ site.conference-name }}
+    </title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css"/>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/responsive.css" />
+
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/responsive-nav.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/parallax.js"></script>
+
+    <meta name="keywords" content />
+    <meta name="description" content />
+    <meta name="robots" content="index,follow" />
+
+    {% seo %}
+</head>
+
+<body>
+    <div class="cont_top parallax-window" data-parallax="scroll" data-image-src="{{ site.baseurl }}/assets/images/header.jpg">
+        <header class="header">
+            <div class="in">
+                <a href="{{ site.baseurl }}/">
+                    <img src="{{ site.baseurl }}/assets/images/logo.png" class="logo" alt="">
+                </a>
+                <div>
+                    <div>
+                        <h1>
+                            <strong>{{ site.conference-name }} - {{ site.conference-subname }}</strong><br/>
+                            {{ site.conference-date }}, {{ site.conference-location }}<br/>
+                        </h1>
+                    </div>
+                    <div style="clear: both;"> </div>
+                </div>
+
+                <ul class="nav-collapse nav-collapse-0 closed" aria-hidden="false" style="-webkit-transition: max-height 284ms; transition: max-height 284ms; position: relative;">
+                    {% assign pages = site.pages | sort: "menu-index" | where:"menu","top-nav" %}
+                    {% for p in pages %}
+                    {% unless p.url contains 'page' %}
+                    <li>
+                        <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+                    </li>
+                    {% endunless %}
+                    {% endfor %}
+                </ul>
+                <!--
+                    <script>
+                        var navigation = responsiveNav(".nav-collapse");
+                    </script>
+                -->
+            </div>
+        </header>
+    </div>
+
+    <div class="in">
+        <aside class="cont_left">
+            <div class="neos-contentcollection">
+                <!-- <h1>{{ page.title }}</h1> -->
+                {{ content }}
+            </div>
+        </aside>
+
+        <nav class="cont_right">
+            <div class="neos-contentcollection">
+                <div class="right_links">Important dates</div>
+                <div class=" typo3-neos-nodetypes-text">
+                    <div>
+                        <p>
+                            {% capture my_include %}{% include important_dates.md %}{% endcapture %}
+                            {{ my_include | markdownify }}
+                        </p>
+                    </div>
+                </div>
+
+                <a class="right_links" href="{{ site.baseurl }}/contact.html">
+                    <div>Contact Us</div>
+                </a>
+
+                <div class=" typo3-neos-nodetypes-text">
+                    <div>
+                        <p>
+                            <a href="mailto:{{ site.conference-mail }}">
+                                {{ site.conference-mail }}
+                            </a>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="right_links">Sponsors</div>
+                <div class=" typo3-neos-nodetypes-text">
+                    <div>
+                        <p>
+                            {% capture my_include %}{% include sponsors.md %}{% endcapture %}
+                            {{ my_include | markdownify }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+
+    <footer class="footer">
+        <div class="in">
+            © 2018 <a href="https://itc-conference.org">itc-conference.org</a>
+            {% assign pages = site.pages | sort: "menu-index" | where:"menu","footer-nav" %}
+            {% for p in pages %}
+                 | <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+            {% endfor %}
+            &nbsp;
+            <a href="https://twitter.com/ITC_Tweets" alt="Join Us on Twitter!" target="_blank">
+                <img src="{{ site.baseurl }}/assets/images/twss_icon.png" width="25" alt="">
+            </a>
+            &nbsp;
+            <a href="https://www.linkedin.com/grp/home?gid=8260384" target="_blank" alt="Join Us on Linked.in!">
+                <img src="{{ site.baseurl }}/assets/images/li_icon.png" width="25" alt="">
+            </a>
+        </div>
+    </footer>
+
+    <script>
+        // Fixes broken parallax when the page content is shorter than the sidebar.
+        window.onload = function() {
+            var right = document.getElementsByClassName('cont_right')[0].offsetHeight;
+
+            // itc-conference.org has a lazy loading twitter timeline, therefore the
+            // final sidebar height is not yet known at this point.
+            // Usually this is not needed in regular ITC websites.
+            // right += 600; // about the height of the twitter timeline
+
+            var left = document.getElementsByClassName('cont_left')[0].offsetHeight;
+            // window.alert("right: " + right)
+            // window.alert("left: " + left)
+            if (right > left)
+                document.getElementsByClassName('cont_left')[0].style.height=right + "px";
+        };
+    </script>
+</body>
+</html>

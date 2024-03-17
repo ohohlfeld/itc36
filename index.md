@@ -6,7 +6,6 @@ menu-index: 0
 
 # Home
 
-**TODO**
 
 
 # {{ site.conference-name }} in {{ site.conference-location }}: {{ site.conference-subname }}

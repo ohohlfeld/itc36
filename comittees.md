@@ -8,6 +8,7 @@ menu-index: 5
 
 ## Organization
 
-### General Co-Chairs
-Sara Alouf (INRIA)
-Thomas Zinner (NTNU)
+General Co-Chairs
+  
+  * Sara Alouf (INRIA)
+  * Thomas Zinner (NTNU)

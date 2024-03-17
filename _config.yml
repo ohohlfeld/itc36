@@ -3,15 +3,15 @@
 # Still, make sure to use {{ site.baseurl }} when using absolute paths.
 baseurl: ""
 
-title: "ITC 31"
-conference-number: "31st"
-conference-name: "ITC 31"
-conference-subname: "Networked Systems and Services"
-conference-date: "27. - 29. August 2019"
-conference-location: "Budapest"
-conference-location-detail: "Budapest University of Technology and Economics, Hungary"
-conference-domain: "https://itc31.itc-conference.org"
-conference-mail: "itc31@lists.i-teletraffic.org"
+title: "ITC 36"
+conference-number: "36th"
+conference-name: "ITC 36"
+conference-subname: "we will see"
+conference-date: "26. - 30. May 2025"
+conference-location: "Trondheim"
+conference-location-detail: "Norwegian University of Science and Technology, Norway"
+conference-domain: "https://itc36.itc-conference.org"
+conference-mail: "itc36@lists.i-teletraffic.org"
 
 # news pagination
 paginate: 10

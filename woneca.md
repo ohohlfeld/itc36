@@ -6,13 +6,11 @@ title: Workshop on Network Calculus
 
 “An exciting “new“ branch of queueing theory is emerging that deals with methods for finding approximation or bounding behavior for queues.”  – Leonard Kleinrock, 1976.
 
-Network calculus is a branch of queueing theory, exploring the bounding behavior for queues. While network calculus was initially intended for performance guarantee analysis of queueing systems arising in Internet networks, it has been extended and applied to a much wider range of areas. They include various other types of communication networks such as wireless networks, sensor networks, IEEE 802 delay sensitive networking (DSN) networks, and wireless-powered communication systems. In addition, real-time systems (RTS), networks/systems on chip, computing systems, smart grid systems, energy storage systems and operations research have also found network calculus to be a useful tool. Furthermore, network calculus has contributed appealing results to the classical queueing theory. 
+Network calculus is a branch of queueing theory, exploring the bounding behavior for queues. While network calculus was initially intended for performance guarantee analysis of queueing systems arising in Internet networks, it has been extended and applied to a much wider range of areas. They include various other types of communication networks such as wireless networks, sensor networks, IEEE 802 time-sensitive networking (TSN) networks, IETF Deterministic Networking (DetNet) networks, and wireless-powered communication systems. In addition, real-time systems (RTS), networks/systems on chip, computing systems, smart grid systems, energy storage systems and operations research have also found network calculus to be a useful tool. Furthermore, network calculus has contributed appealing results to the classical queueing theory. 
 
 The goal of this workshop is to bring together researchers with an interest in the theory of network calculus as well as those who want to apply existing results in new applications. The workshop will serve to promote the network calculus theory to researchers with an interest in applied queueing models for data communication.
 
 ## Topics of Interest
-
-opics of Interest
 
 The topics of this workshop are related to fundamental aspects as well as applications of network calculus. The following list of topics is non-exclusive:
 

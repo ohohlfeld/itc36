@@ -18,29 +18,36 @@ The topics of this workshop are related to fundamental aspects as well as applic
 * traffic and service models
 * general topologies
 * numerical tightness	
+
 **Relation to other theories, e.g.,**
 * queueing theory
 * discrete event dynamic systems
 * optimization
+
 **Feedback systems, e.g.,**
 * TCP network calculus
 * window flow control
 * retransmission-based systems
+
 **Loss systems, e.g.,**
 * bounded queues
 * wireless links
+
 **Aggregate multiplexing, e.g.,**
 * optimization-based approaches
 * efficient algorithms
 * stochastic case
+
 **Tool support, e.g.,**
 * numerical problems
 * numerical approximations
 * implementation experience
+
 **Data transformation, e.g.,**
 * end-to-end analysis
 * in-network processing
 * network coding
+
 **New applications, e.g.,**
 * TSN, DetNet and 5G
 * energy storage

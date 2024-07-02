@@ -15,43 +15,43 @@ The goal of this workshop is to bring together researchers with an interest in t
 The topics of this workshop are related to fundamental aspects as well as applications of network calculus. The following list of topics is non-exclusive:
 
 **Deterministic and stochastic network calculus, e.g.
-*traffic and service models
-*general topologies
-*numerical tightness	
+* traffic and service models
+* general topologies
+* numerical tightness	
 **Relation to other theories, e.g.,
-*queueing theory
-*discrete event dynamic systems
-*optimization
+* queueing theory
+* discrete event dynamic systems
+* optimization
 **Feedback systems, e.g.,
-*TCP network calculus
-*window flow control
-*retransmission-based systems
+* TCP network calculus
+* window flow control
+* retransmission-based systems
 **Loss systems, e.g.,
-*bounded queues
-*wireless links
+* bounded queues
+* wireless links
 **Aggregate multiplexing, e.g.,
-*optimization-based approaches
-*efficient algorithms
-*stochastic case
+* optimization-based approaches
+* efficient algorithms
+* stochastic case
 **Tool support, e.g.,
-*numerical problems
-*numerical approximations
-*implementation experience
+* numerical problems
+* numerical approximations
+* implementation experience
 **Data transformation, e.g.,
-*end-to-end analysis
-*in-network processing
-*network coding
+* end-to-end analysis
+* in-network processing
+* network coding
 **New applications, e.g.,
-*TSN, DetNet and 5G
-*energy storage
-*tactile internet
-*cache networks
-*real-time calculus
-*avionic networks
-*mission-critical networks
-*the power grid
-*wireless sensor networks
-*cyber-physical systems
+* TSN, DetNet and 5G
+* energy storage
+* tactile internet
+* cache networks
+* real-time calculus
+* avionic networks
+* mission-critical networks
+* the power grid
+* wireless sensor networks
+* cyber-physical systems
 
 
 ## Workshop Organizers

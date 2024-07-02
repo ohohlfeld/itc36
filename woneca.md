@@ -1,0 +1,91 @@
+---
+title: Workshop on Network Calculus
+
+---
+# 7th Workshop on Network Calculus
+
+“An exciting “new“ branch of queueing theory is emerging that deals with methods for finding approximation or bounding behavior for queues.”  – Leonard Kleinrock, 1976.
+
+Network calculus is a branch of queueing theory, exploring the bounding behavior for queues. While network calculus was initially intended for performance guarantee analysis of queueing systems arising in Internet networks, it has been extended and applied to a much wider range of areas. They include various other types of communication networks such as wireless networks, sensor networks, IEEE 802 delay sensitive networking (DSN) networks, and wireless-powered communication systems. In addition, real-time systems (RTS), networks/systems on chip, computing systems, smart grid systems, energy storage systems and operations research have also found network calculus to be a useful tool. Furthermore, network calculus has contributed appealing results to the classical queueing theory. 
+
+The goal of this workshop is to bring together researchers with an interest in the theory of network calculus as well as those who want to apply existing results in new applications. The workshop will serve to promote the network calculus theory to researchers with an interest in applied queueing models for data communication.
+
+## Topics of Interest
+
+opics of Interest
+
+The topics of this workshop are related to fundamental aspects as well as applications of network calculus. The following list of topics is non-exclusive:
+
+**Deterministic and stochastic network calculus, e.g.
+*traffic and service models
+*general topologies
+*numerical tightness	
+**Relation to other theories, e.g.,
+*queueing theory
+*discrete event dynamic systems
+*optimization
+**Feedback systems, e.g.,
+*TCP network calculus
+*window flow control
+*retransmission-based systems
+**Loss systems, e.g.,
+*bounded queues
+*wireless links
+**Aggregate multiplexing, e.g.,
+*optimization-based approaches
+*efficient algorithms
+*stochastic case
+**Tool support, e.g.,
+*numerical problems
+*numerical approximations
+*implementation experience
+**Data transformation, e.g.,
+*end-to-end analysis
+*in-network processing
+*network coding
+**New applications, e.g.,
+*TSN, DetNet and 5G
+*energy storage
+*tactile internet
+*cache networks
+*real-time calculus
+*avionic networks
+*mission-critical networks
+*the power grid
+*wireless sensor networks
+*cyber-physical systems
+
+
+## Workshop Organizers
+
+### Technical Program Commitee
+
+### Organization Commitee
+
+Yuming Jiang, general chair
+
+
+
+## Call for Presentations
+
+ The idea is to have an informal meeting with presentations of recent work in the context of network calculus (theory, applications, tool support) and gather as many network calculus experts as possible to discuss about the future development of the theory and its application opportunities. Hence, there are no written papers and everyone can present his/her "hottest" recent research on network calculus.
+
+The workshop is open to everyone who is interested in network calculus. If you would like to present you will need to submit:
+
+   1. The title of your presentation.
+   2. The abstract of your presentation.
+   3. The name of the presenter.
+
+
+Please send this information to Yuming Jiang, **yuming.jiang@ntnu.no** with email topic "Woneca Submission".
+
+
+
+
+
+
+
+
+
+
+

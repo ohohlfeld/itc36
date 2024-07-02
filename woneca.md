@@ -10,6 +10,8 @@ Network calculus is a branch of queueing theory, exploring the bounding behavior
 
 The goal of this workshop is to bring together researchers with an interest in the theory of network calculus as well as those who want to apply existing results in new applications. The workshop will serve to promote the network calculus theory to researchers with an interest in applied queueing models for data communication.
 
+The workshop is open for ITC attendees and registered workshop participants that are interested in network calculus. Registration information will be provided at a later stage.
+
 ## Topics of Interest
 
 The topics of this workshop are related to fundamental aspects as well as applications of network calculus. The following list of topics is non-exclusive:
@@ -75,7 +77,7 @@ Yuming Jiang, general chair
 
  The idea is to have an informal meeting with presentations of recent work in the context of network calculus (theory, applications, tool support) and gather as many network calculus experts as possible to discuss about the future development of the theory and its application opportunities. Hence, there are no written papers and everyone can present his/her "hottest" recent research on network calculus.
 
-The workshop is open for both, ITC attendees and registered participants that are interested in network calculus. If you would like to present you will need to submit:
+ If you would like to present you will need to submit:
 
    1. The title of your presentation.
    2. The abstract of your presentation.

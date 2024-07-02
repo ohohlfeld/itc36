@@ -4,9 +4,6 @@ menu: top-nav
 menu-index: 0
 ---
 
-# Home
-
-
 
 # {{ site.conference-name }} in {{ site.conference-location }}: {{ site.conference-subname }}
 

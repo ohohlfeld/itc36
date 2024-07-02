@@ -14,34 +14,34 @@ The goal of this workshop is to bring together researchers with an interest in t
 
 The topics of this workshop are related to fundamental aspects as well as applications of network calculus. The following list of topics is non-exclusive:
 
-**Deterministic and stochastic network calculus, e.g.
+**Deterministic and stochastic network calculus, e.g.,**
 * traffic and service models
 * general topologies
 * numerical tightness	
-**Relation to other theories, e.g.,
+**Relation to other theories, e.g.,**
 * queueing theory
 * discrete event dynamic systems
 * optimization
-**Feedback systems, e.g.,
+**Feedback systems, e.g.,**
 * TCP network calculus
 * window flow control
 * retransmission-based systems
-**Loss systems, e.g.,
+**Loss systems, e.g.,**
 * bounded queues
 * wireless links
-**Aggregate multiplexing, e.g.,
+**Aggregate multiplexing, e.g.,**
 * optimization-based approaches
 * efficient algorithms
 * stochastic case
-**Tool support, e.g.,
+**Tool support, e.g.,**
 * numerical problems
 * numerical approximations
 * implementation experience
-**Data transformation, e.g.,
+**Data transformation, e.g.,**
 * end-to-end analysis
 * in-network processing
 * network coding
-**New applications, e.g.,
+**New applications, e.g.,**
 * TSN, DetNet and 5G
 * energy storage
 * tactile internet

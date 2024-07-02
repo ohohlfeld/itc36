@@ -2,7 +2,7 @@
 title: Workshop on Network Calculus
 
 ---
-# 7th Workshop on Network Calculus
+# 2025 International Workshop on Network Calculus
 
 “An exciting “new“ branch of queueing theory is emerging that deals with methods for finding approximation or bounding behavior for queues.”  – Leonard Kleinrock, 1976.
 
@@ -68,14 +68,14 @@ Yuming Jiang, general chair
 
  The idea is to have an informal meeting with presentations of recent work in the context of network calculus (theory, applications, tool support) and gather as many network calculus experts as possible to discuss about the future development of the theory and its application opportunities. Hence, there are no written papers and everyone can present his/her "hottest" recent research on network calculus.
 
-The workshop is open to everyone who is interested in network calculus. If you would like to present you will need to submit:
+The workshop is open for both, ITC attendees and registered participants that are interested in network calculus. If you would like to present you will need to submit:
 
    1. The title of your presentation.
    2. The abstract of your presentation.
    3. The name of the presenter.
 
 
-Please send this information to Yuming Jiang, **yuming.jiang@ntnu.no** with email topic "Woneca Submission".
+Please send this information to Yuming Jiang, **yuming.jiang@ntnu.no** with email topic "Woneca Submission". Submission deadline is February 28th, 2025.
 
 
 

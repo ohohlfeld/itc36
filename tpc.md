@@ -11,13 +11,13 @@ menu-index: 6
 * **Antonio Pescape**, Università degli Studi di Napoli Federico II
 * **Arpan Mukhopadhyay**, University of Warwick
 * **Bo Jiang**, Shanghai Jiao Tong University
-* **Bouillard Anne**, Huawei
+#REF!
 * **Bruno Tuffin**, Inria
 * **Calvin Chen**, Nokia Bell Labs
 * **Céline Comte**, CNRS
 * **Chadi Barakat**, Inria
 * **Chandramani Singh**, Indian Institute of Science
-* **Christelle Caillouet Caillouet**, Université Côte d'Azur
+* **Christelle Caillouet**, Université Côte d'Azur
 * **Daniela Renga**, Politecnico di Torino
 * **Danilo Giordano**, Politecnico di Torino
 * **Danny De Vleeschauwer**, Nokia
@@ -63,6 +63,7 @@ menu-index: 6
 * **Y.C. Tay**, National University of Singapore
 * **Ye-Qiong Song**, Université de Lorraine
 * **Zhixuan Fang**, Tsinghua University
+
 
 
 

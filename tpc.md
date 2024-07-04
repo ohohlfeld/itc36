@@ -1,7 +1,7 @@
 ---
 title: TPC
 menu: top-nav
-menu-index: 4
+menu-index: 6
 ---
 
 # TPC Members

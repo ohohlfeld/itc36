@@ -23,6 +23,7 @@ Local arrangement
   * Poul Heegaard (NTNU, Norway)
   
 Publicity chairs
+  * Yuxuan Sun (Beijing Jiaotong University, China)
 
 Web chair
   * Stefan Geißler (University of Wuerzburg, Germany)
@@ -31,7 +32,6 @@ Publication chairs
   * Lea Skoring-Kapov (University of Zagreb, Croatia)
   * Maria Torres Vega (KU Leuven, Belgium)
   
-Travel Grant chair
-  
+
 
 

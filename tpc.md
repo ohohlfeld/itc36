@@ -10,9 +10,10 @@ menu-index: 6
 * **Amr Rizk**, Universität Duisburg-Essen
 * **Andres Ferragut**, Universidad ORT Uruguay
 * **Antonio Pescape**, Università degli Studi di Napoli Federico II
-* **Arpan Mukhopadhyay**, University of Warwick
-* **Bo Jiang**, Shanghai Jiao Tong University
 * **Anne Bouillard**, Huawei
+* **Arpan Mukhopadhyay**, University of Warwick
+* **Ayalvadi Ganesh**, University of Bristol
+* **Bo Jiang**, Shanghai Jiao Tong University
 * **Bruno Tuffin**, Inria
 * **Calvin Chen**, Nokia Bell Labs
 * **Céline Comte**, CNRS
@@ -22,9 +23,12 @@ menu-index: 6
 * **Daniela Renga**, Politecnico di Torino
 * **Danilo Giordano**, Politecnico di Torino
 * **Danny De Vleeschauwer**, Nokia
+* **Emmanuel Hyon**, Sorbonne Université
 * **Esa Hyytiä**, University of Iceland
 * **Essaid Sabir**, Université du Québec, Montréal
 * **Fabio Martignon**, University of Bergamo
+* **Fabio Pianese**, Nokia Bell Labs
+* **Fang Zhixuan**, Tsinghua University
 * **Ganesh Ayalvadi**, University of Bristol
 * **György Dán**, KTH Royal Institute of Technology
 * **Haiming Jin**, Shanghai Jiao Tong University
@@ -64,4 +68,3 @@ menu-index: 6
 * **Y.C. Tay**, National University of Singapore
 * **Ye-Qiong Song**, Université de Lorraine
 * **Zhixuan Fang**, Tsinghua University
-

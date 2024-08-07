@@ -7,7 +7,7 @@ menu-index: 6
 # TPC Members
 
 * **Alain Jean-Marie**, Inria
-* **Amr Rizk**, Universität Duisburg-Essen
+* **Amr Rizk**, Leibniz University Hannover
 * **Andres Ferragut**, Universidad ORT Uruguay
 * **Antonio Pescape**, Università degli Studi di Napoli Federico II
 * **Anne Bouillard**, Huawei

@@ -28,8 +28,6 @@ menu-index: 6
 * **Essaid Sabir**, Université du Québec, Montréal
 * **Fabio Martignon**, University of Bergamo
 * **Fabio Pianese**, Nokia Bell Labs
-* **Fang Zhixuan**, Tsinghua University
-* **Ganesh Ayalvadi**, University of Bristol
 * **György Dán**, KTH Royal Institute of Technology
 * **Haiming Jin**, Shanghai Jiao Tong University
 * **Howard Yang**, Zhejiang University

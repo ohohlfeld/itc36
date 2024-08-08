@@ -24,12 +24,13 @@ Local arrangement
   
 Publicity chairs
   * Yuxuan Sun (Beijing Jiaotong University, China)
+  * Stanislav Lange (NTNU, Norway)
 
 Web chair
   * Stefan Geißler (University of Wuerzburg, Germany)
   
 Publication chairs
-  * Lea Skoring-Kapov (University of Zagreb, Croatia)
+  * Lea Skorin-Kapov (University of Zagreb, Croatia)
   * Maria Torres Vega (KU Leuven, Belgium)
   
 

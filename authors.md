@@ -8,9 +8,9 @@ menu-index: 2
 
 ## Submission guidelines
 
-* Submitted papers must be original work, not under review at other journals/conferences, and may comprise of a maximum of 9 A4 (210 mm x 297 mm) pages in 2-column IEEE conference style with a minimum font size of 10 pt. Papers should be submitted electronically using hotcrp. All accepted papers must be presented at the conference by one of the authors.
+* Submitted papers must be original work, not under review at other journals/conferences, and may comprise of a maximum of 9 (full papers) or 5 (short papers) A4 in 2-column IEEE conference style with a minimum font size of 10 pt. Papers should be submitted electronically using HotCRP. All accepted papers must be presented at the conference by one of the authors.
 * Submitted papers are single-blind reviewed. Please include author names and affiliations in your manuscript as in the provided template below.
-* Link for Submissions: [here]https://itc2025.hotcrp.com/
+* Link for Submissions: [here](https://itc2025.hotcrp.com/)
 * Template for A4 (210 mm x 297 mm) pages in 2-column IEEE conference style with a minimum font size of 10 pt: LaTex and MS Word and is available for download [here](https://www.ieee.org/conferences/publishing/templates.html).
 
 ## Author registration

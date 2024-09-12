@@ -77,21 +77,21 @@ The topics of this workshop are related to fundamental aspects as well as applic
 
 ### Organization Commitee
 
-Yuming Jiang (General Chair), Norwegian University of Science and Technology, Norway
-Lisa Maile (Organization Co-chair), Technische Universität Braunschweig, Germany
+* **Yuming Jiang**, General Chair, Norwegian University of Science and Technology, Norway
+* **Lisa Maile** Organization Co-Chair, Technische Universität Braunschweig, Germany
 
 ### Technical Program Commitee
 
-Steffen Bondorf, Ruhr University Bochum, Germany
-Anne Bouillard, Huawei Technologies France, France
-Marc Boyer, ONERA, France
-Markus Fidler, Leibniz University Hannover, Germany
-Yuming Jiang, Norwegian University of Science and Technology, Norway
-Jean-Yves Le Boudec, EPFL, Switzerland
-Jörg Liebeherr, University of Toronto, Canada 
-Amr Rizk, Duisburg-Essen University, Germany
-Jens Schmitt, TU Kaiserslautern, Germany 
-Luxi Zhao, BUAA, China
+* **Steffen Bondorf**, Ruhr University Bochum, Germany
+* **Anne Bouillard**, Huawei Technologies France, France
+* **Marc Boyer**, ONERA, France
+* **Markus Fidler**, Leibniz University Hannover, Germany
+* **Yuming Jiang**, Norwegian University of Science and Technology, Norway
+* **Jean-Yves Le Boudec**, EPFL, Switzerland
+* **Jörg Liebeherr**, University of Toronto, Canada 
+* **Amr Rizk**, Leibniz University Hannover, Germany
+* **Jens Schmitt**, TU Kaiserslautern, Germany 
+* **Luxi Zhao**, BUAA, China
 
 ## Call for Presentations
 

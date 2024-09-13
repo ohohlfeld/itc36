@@ -104,7 +104,11 @@ The topics of this workshop are related to fundamental aspects as well as applic
    3. The name of the presenter.
 
 
-Please send this information to Yuming Jiang, **yuming.jiang@ntnu.no** with email topic "Woneca Submission". Submission deadline is February 28th, 2025. The expected notification is end of March 2025.
+Please send this information to Yuming Jiang, **yuming.jiang@ntnu.no** with email topic "Woneca Submission". 
+
+Submission deadline is **February 28th, 2025**. 
+
+The expected notification is end of March 2025.
 
 
 

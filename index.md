@@ -11,7 +11,11 @@ The INTERNATIONAL TELETRAFFIC CONGRESS {{ site.conference-name }}, to be held {{
 
 ### Open Access and Digital Libraries
 
-ITC follows an open access strategy. Accepted ITC conference and workshop papers can be downloaded from the open [ITC digital library](https://itc-conference.org/itc-library.html). Accepted and presented papers will be published in the conference proceedings. Since ITC retains the copyrights, the papers will also be accessible for free even in those public databases like [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp). This helps to increase the visibility and accessibility of accepted papers.
+ITC follows an open access strategy. Accepted ITC conference and workshop papers can be downloaded from the open [ITC digital library](https://itc-conference.org/itc-library.html).
+In addition, ITC makes the effort to index accepted papers in public A&I databases. By getting sponsorship of technical communities like IEEE and ACM, as well as sticking to corresponding rules with respect to technical quality, papers of previous ITC editions were included in the corresponding databases IEEE Xplore and ACM DL.
+
+Since ITC retains the copyrights, it is possible to make the papers accessible for free via the ITC digital library. This helps to increase the visibility and accessibility of accepted papers.
+
 
 ### Important Dates
 

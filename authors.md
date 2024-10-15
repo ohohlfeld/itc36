@@ -21,4 +21,4 @@ For your paper to be included in the final programme and to be published in the 
 
 ITC follows an open access strategy. Accepted ITC conference and workshop papers can be downloaded from the open ITC digital library. In addition, ITC makes the effort to index accepted papers in public A&I databases. By getting sponsorship of technical communities like IEEE and ACM, as well as sticking to corresponding rules with respect to technical quality, papers of previous ITC editions were included in the corresponding databases IEEE Xplore and ACM DL.
 
-Since ITC retains the copyrights, it is possible to make the papers accessible for free even in those public databases. This helps to increase the visibility and accessibility of accepted papers.
+Since ITC retains the copyrights, it is possible to make the papers accessible for free via the ITC digital library. This helps to increase the visibility and accessibility of accepted papers.

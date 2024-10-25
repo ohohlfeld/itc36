@@ -46,6 +46,7 @@ menu-index: 6
 * **Michael Menth**, University of Tuebingen
 * **Michela Meo**, Politecnico di Torino
 * **Paolo Bellavista**, University of Bologna
+* **Peng Xi**, Huawei
 * **Qiulin Lin**, City University of Hong Kong
 * **Raffaele Zippo**, University of Pisa
 * **Ravi Mazumdar**, University of Waterloo

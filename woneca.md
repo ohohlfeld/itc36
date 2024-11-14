@@ -92,6 +92,7 @@ The topics of this workshop are related to fundamental aspects as well as applic
 * **Amr Rizk**, Leibniz University Hannover, Germany
 * **Jens Schmitt**, TU Kaiserslautern, Germany 
 * **Luxi Zhao**, BUAA, China
+* **Zhonghai Lu**, KTH, Sweden
 
 ## Call for Presentations
 
@@ -108,7 +109,7 @@ Please send this information to Yuming Jiang, **yuming.jiang@ntnu.no** with emai
 
 Submission deadline is **February 28th, 2025**. 
 
-The expected notification is end of March 2025.
+The expected notification March 30th, 2025.
 
 
 

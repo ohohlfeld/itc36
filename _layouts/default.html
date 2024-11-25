@@ -71,7 +71,13 @@
                 <div class=" typo3-neos-nodetypes-text">
                     <div>
                         <p>
-                            {% capture my_include %}{% include important_dates.md %}{% endcapture %}
+                            {% capture my_include %}
+                            {% if page.workshop_dates %}
+                                {% include workshop_important_dates.md %}
+                            {% else %}
+                                {% include important_dates.md %}
+                            {% endif }%
+                            {% endcapture %}
                             {{ my_include | markdownify }}
                         </p>
                     </div>

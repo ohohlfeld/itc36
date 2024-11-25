@@ -73,15 +73,9 @@
                         <p>
                            
                             {% if page.workshop_dates %}
-                                {% capture my_include %}
                                 {% include workshop_important_dates.md %}
-                                {% endcapture %}
-                                {{ my_include | markdownify }}
                             {% else %}
-                                {% capture my_include %}
                                 {% include important_dates.md %}
-                                {% endcapture %}
-                                {{ my_include | markdownify }}
                             {% endif %}
                         </p>
                     </div>

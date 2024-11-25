@@ -1,6 +1,6 @@
 ---
 title: Workshop on Network Calculus
-
+workshop_dates: true
 ---
 # 2025 International Workshop on Network Calculus
 

@@ -88,9 +88,15 @@
                 <div class=" typo3-neos-nodetypes-text">
                     <div>
                         <p>
+                            {% if page.workshop_dates %}
+                            <a href="mailto:yuming.jiang@ntnu.no">
+                                yuming.jiang@ntnu.no
+                            </a>
+                            {% else %}
                             <a href="mailto:{{ site.conference-mail }}">
                                 {{ site.conference-mail }}
                             </a>
+                            {% endif %}
                         </p>
                     </div>
                 </div>

@@ -7,7 +7,7 @@ menu-index: 1
 # Keynotes
 
 ## Keynote 1
-<div style="overflow: hidden;">
+<div style="overflow: hidden; margin-top:10px;">
 <!-- <img src="{{ site.baseurl }}/assets/images/SitaramanPhoto.jpg" alt="Photo of Ramesh K. Sitaraman" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 200px;"> -->
     <p>
         <b>Speaker</b>: Stefan Schmid<br />
@@ -20,8 +20,7 @@ menu-index: 1
 
 ## Keynote 2
 
-      
-<div style="overflow: hidden;">
+<div style="overflow: hidden; margin-top:10px;">
     <img src="{{ site.baseurl }}/assets/images/SitaramanPhoto.jpg" alt="Photo of Ramesh K. Sitaraman" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 200px;">
     <p>
         <b>Speaker</b>: Ramesh K. Sitaraman<br />

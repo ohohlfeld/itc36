@@ -1,7 +1,7 @@
 ---
 title: Committees
 menu: top-nav
-menu-index: 5
+menu-index: 2
 ---
 
 # Committees
@@ -9,29 +9,39 @@ menu-index: 5
 ## Organization
 
 General chairs
-  
   * Sara Alouf (INRIA, France)
   * Thomas Zinner (NTNU, Norway)
 
 TPC chairs
-  
-  * Y.C. Tay (National University Singapore, Singapore)
   * Anne Bouillard (Huawei Technologies, France)
-  
-Local arrangement
+  * Y.C. Tay (National University Singapore, Singapore)
 
-  * Poul Heegaard (NTNU, Norway)
-  
+PhD Workshop chairs
+  * Francescomaria Faticanti(ENS Lyon, France)
+  * Amr Rizk (Leibniz University Hannover, Germany)
+
+Publication chairs
+  * Lea Skorin-Kapov (University of Zagreb, Croatia)
+  * Maria Torres Vega (KU Leuven, Belgium)
+
 Publicity chairs
-  * Yuxuan Sun (Beijing Jiaotong University, China)
   * Stanislav Lange (NTNU, Norway)
+  * Yuxuan Sun (Beijing Jiaotong University, China)
 
 Web chair
   * Stefan Geißler (University of Wuerzburg, Germany)
   
-Publication chairs
-  * Lea Skorin-Kapov (University of Zagreb, Croatia)
-  * Maria Torres Vega (KU Leuven, Belgium)
+Local arrangement
+  * Poul Heegaard (NTNU, Norway)
+  
+
+
+
+  
+
+
+
+
   
 
 

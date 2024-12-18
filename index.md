@@ -9,6 +9,13 @@ menu-index: 0
 
 The INTERNATIONAL TELETRAFFIC CONGRESS {{ site.conference-name }}, to be held {{ site.conference-date }} at {{ site.conference-location-detail }}, is the {{ site.conference-number }} edition of this international flagship congress in the field of networking science and practice. ITC was founded back in 1955 by enthusiastic scientists and engineers who were willing to deploy networks in a holistic way. Since then, it has estab­lished a multi-decade tradition as the primary forum for presenting and dis­cussing the latest technical advances in the broad areas of teletraffic models, network systems, and measurements.
 
+### News and Announcements
+
+* December 18, 2024: Paper <a href="https://itc2025.hotcrp.com/">registration/submission</a> deadline extended to January 10, 2025(AoE)
+* December14, 2024: Keynote by <a href="{{ site.baseurl }}/keynotes.html">Ramesh Sitaraman</a> (UMass and AKAMAI) confirmed!
+* November 20, 2024: Keynote by <a href="{{ site.baseurl }}/keynotes.html">Stefan Schmid</a> (TU Berlin) confirmed!
+
+<!--
 ### Open Access and Digital Libraries
 
 ITC follows an open access strategy. Accepted ITC conference and workshop papers can be downloaded from the open [ITC digital library](https://itc-conference.org/itc-library.html).
@@ -23,3 +30,4 @@ Since ITC retains the copyrights, it is possible to make the papers accessible f
 {% include important_dates.md %}
 {% endcapture %}
 {{ dates | markdownify }}
+-->

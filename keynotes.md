@@ -7,14 +7,16 @@ menu-index: 1
 # Keynotes
 
 ## Keynote 1
-
-**Speaker**: Stefan Schmid
-
-**Affiliation**: Technical University of Berlin, Germany
-
-**Title:** To be announced
-
-**Abstract:** To be announced
+<div style="overflow: hidden;">
+<!-- <img src="{{ site.baseurl }}/assets/images/SitaramanPhoto.jpg" alt="Photo of Ramesh K. Sitaraman" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 200px;"> -->
+    <p>
+        <b>Speaker</b>: Stefan Schmid<br />
+        <b>Affiliation</b>: Technical University of Berlin, Germany<br />
+        <br />
+        <b>Title:</b> To be announced<br />
+        <b>Abstract:</b> To be announced<br />
+    </p>
+</div>
 
 ## Keynote 2
 

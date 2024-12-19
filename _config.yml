@@ -1,7 +1,7 @@
 # Leave empty, otherwise it won't work with cusotm domains.
 # Github will automatically fill in the correct string.
 # Still, make sure to use {{ site.baseurl }} when using absolute paths.
-baseurl: ""
+#baseurl: ""
 
 title: "ITC 36"
 conference-number: "36th"

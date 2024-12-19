@@ -17,7 +17,7 @@ TPC chairs
   * Y.C. Tay (National University Singapore, Singapore)
 
 PhD Workshop chairs
-  * Francescomaria Faticanti(ENS Lyon, France)
+  * Francescomaria Faticanti (ENS Lyon, France)
   * Amr Rizk (Leibniz University Hannover, Germany)
 
 Publication chairs

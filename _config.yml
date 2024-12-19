@@ -1,7 +1,7 @@
 # Leave empty, otherwise it won't work with cusotm domains.
 # Github will automatically fill in the correct string.
 # Still, make sure to use {{ site.baseurl }} when using absolute paths.
-#baseurl: ""
+baseurl: ""
 
 title: "ITC 36"
 conference-number: "36th"
@@ -11,7 +11,7 @@ conference-date: "02. - 06. June 2025"
 conference-location: "Trondheim"
 conference-location-detail: "Norwegian University of Science and Technology, Norway"
 conference-domain: "https://itc36.itc-conference.org"
-conference-mail: "itc36_oc@iik.ntnu.no
+conference-mail: "itc36_oc@iik.ntnu.no"
 
 # news pagination
 paginate: 10

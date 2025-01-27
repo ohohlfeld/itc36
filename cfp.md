@@ -1,7 +1,7 @@
 ---
-title: CfP
+title: Call for Papers
 menu: top-nav
-menu-index: 3
+menu-index: 4
 ---
 
 # Call for Papers

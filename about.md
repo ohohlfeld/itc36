@@ -1,7 +1,7 @@
 ---
 title: About ITC
 menu: top-nav
-menu-index: 7
+menu-index: 8
 ---
 
 # ITC

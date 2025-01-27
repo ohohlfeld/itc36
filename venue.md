@@ -7,7 +7,7 @@ menu-index: 9
 
 The main conference and the workshops will be hosted at the **NTNU**, at the following address:
 
-[O. S. Bragstads Plass 2A](https://link.mazemap.com/k7xOFcei)<br>
+O. S. Bragstads Plass 2A<br>
 7034 Trondheim, Norge<br>
 
 To see the location on Google maps, please [click here](https://maps.app.goo.gl/CpEXxP13skSQFiZX6).<br>

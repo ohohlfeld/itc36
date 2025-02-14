@@ -18,7 +18,7 @@ or having just completed their PhD. Discussion of their PhD ideas and
 progress, proposition of research challenges and directions is welcome 
 during a dedicated workshop.
 
-More information about the workshop can be found at the workshop webpage. <{{site.conference-domain}}/phditc>
+More information about the workshop can be found at the workshop webpage. <{{site.conference-domain}}/phdworkshop>
 
 
 ## 2025 International Workshop on Network Calculus

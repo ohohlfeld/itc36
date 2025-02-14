@@ -1,6 +1,6 @@
 ---
 title: PhD Workshop
-workshop_dates: true
+phd_workshop: true
 ---
 # 2025 ITC 36 PhD Workshop
 

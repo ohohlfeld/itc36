@@ -74,6 +74,8 @@
                            
                             {% if page.workshop_dates %}
                                 {% include workshop_important_dates.md %}
+                            {% elsif page.phd_workshop %}
+                                {% include phd_workshop_important_dates.md %}
                             {% else %}
                                 {% include important_dates.md %}
                             {% endif %}

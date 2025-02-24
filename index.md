@@ -11,10 +11,11 @@ The INTERNATIONAL TELETRAFFIC CONGRESS {{ site.conference-name }}, to be held {{
 
 ### News and Announcements
 
-* December 18, 2024: Paper <a href="https://itc2025.hotcrp.com/">registration/submission</a> deadline extended to January 10, 2025 (AoE)
-* December 14, 2024: Keynote by <a href="{{ site.baseurl }}/keynotes.html#keynote-2">Ramesh Sitaraman</a> (UMass and AKAMAI) confirmed!
+* February 14, 2025: Details for the <a href="{{ site.baseurl }}/phdworkshop.html">PhD Workshop</a> held jointly with ITC are now available.
+* December 18, 2024: Paper <a href="https://itc2025.hotcrp.com/">registration/submission</a> deadline extended to January 10, 2025 (AoE).
+* December 14, 2024: Keynote by <a href="{{ site.baseurl }}/keynotes.html#keynote-2">Ramesh Sitaraman</a> (UMass and AKAMAI) confirmed.
 * November 25, 2024: The <a href="{{ site.baseurl }}/woneca.html">Workshop on Network Calculus</a> will be held jointly with ITC.
-* November 20, 2024: Keynote by <a href="{{ site.baseurl }}/keynotes.html#keynote-1">Stefan Schmid</a> (TU Berlin) confirmed!
+* November 20, 2024: Keynote by <a href="{{ site.baseurl }}/keynotes.html#keynote-1">Stefan Schmid</a> (TU Berlin) confirmed.
 
 <!--
 ### Open Access and Digital Libraries

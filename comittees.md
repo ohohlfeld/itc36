@@ -23,6 +23,10 @@ PhD Workshop chairs
 Publication chairs
   * Lea Skorin-Kapov (University of Zagreb, Croatia)
   * Maria Torres Vega (KU Leuven, Belgium)
+  
+Travel Grant chairs
+  * Theo Benson (CMU, USA)
+  * Jacek Rak (Gdansk University of Technology, Poland)
 
 Publicity chairs
   * Stanislav Lange (NTNU, Norway)

@@ -4,30 +4,42 @@ menu: top-nav
 menu-index: 5
 ---
 
-# Travel Grant
+# Travel Grants
 
-## Student Travel Grant Applications
+# Broadening Participation in ITC 
 
-The International Advisory Committee (IAC) of the ITC has decided to offer a number of travel grants (STG) that will be available to support full-time students for attending {{ site.conference-name }}. The amount of each grant is EUR 600 that can be used to cover student travel expenses related to attending {{ site.conference-name }} conference, such as student registration fee, airline ticket, and hotel accommodation expenses.
+The International Advisory Committee (IAC) of the ITC conference has decided to offer a number of travel grants that will be available to broaden participation in {{ site.conference-name }}. For that, travel grants are available to support full-time students and researchers who self-identify as marginalized and/or underrepresented in the community, and especially those who lack funding opportunities in their institutions. The amount of each TG is up to EUR 1000 that can be used to cover student travel expenses related to attending the conference, such as student registration fee, airline ticket, and hotel accommodation expenses. The exact value depends on geographical areas to maximize reach.
 
-The **STG Application process** is open from **TODO DATE** until **TODO DATE**.
-- The **application from the student** should state why he/she wants to attend {{ site.conference-name }} and how would he/she benefit from {{ site.conference-name }}. This description should be kept to a page maximum and uploaded through EDAS.
-- The advisor of the student must also submit an **advisor's recommendation** stating that {{ site.conference-name }} covers the applicant's research areas, details whether the student is a PhD candidate, and outlines how the student outstands among other students. Upon application from the student, the advisor will receive an invitation from EDAS to submit the recommendation.
+## Application Requirements
 
-It is important that both the student and advisor clearly motivate the application with regards to the scientific scope of ITC and the research work of the applicant.
+The application from the student should provide:
 
-The Student Advisor must declare that additional expenses to attend the conference will be somehow covered, should a student be granted a STG.
+- A concise CV (possibly in European format)
+- A letter stating why he/she wants to attend ITC 36 and how he/she would benefit from it. Students presenting at the PhD workshop should explicitly mention this in the letter.
+- The letter should be kept to a maximum of one page.
+- Contact information of the student’s advisor must also be reported.
 
-If selected, the Student commits to send within two weeks after {{ site.conference-name }} a **two-page report** highlighting the benefits of having attended {{ site.conference-name }}, in terms of impact on his/her own research, of overall technical knowledge increase, and on technical exchanges and potential collaboration with other attendees.
+The application, letter, and CV must be sent to:
 
-### Important dates
-Registration is open from **TODO**<br/>
-Application submission deadline: **TODO**<br/>
-Recommendation submission deadline: **TODO**<br/>
-Decisions/notification: **TODO**<br/>
-Two-page report: **TODO**<br/>
+- **Theo Benson**: [theophilus [at] cmu [dot] edu](mailto:theophilus@cmu.edu)
+- **Jacek Rak**: [jrak [at] pg [dot] edu [dot] pl](mailto:jrak@pg.edu.pl)
 
-### STG Committee
-**TODO**<br/>
-Contact: **<mailto:TODO>**
+## Responsibilities of Selected Students
+
+If selected, the student is expected to:
+
+- Attend ITC 36 and the PhD workshop.
+- Provide feedback within two weeks after the conference, either as a short video or a two-page report highlighting the benefits of attending the conference.
+- Highlight the impact on their own research, overall technical knowledge increase, and technical exchanges and potential collaboration with other attendees.
+
+## Important Dates
+
+- **Deadline**: April 17th 2025
+
+## TG Committee
+
+- **Theo Benson**, Carnegie Mellon University, USA
+- **Jacek Rak**, Gdanks University of Technology, Poland
+
+
 

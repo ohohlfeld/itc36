@@ -12,25 +12,25 @@ The International Advisory Committee (IAC) of the ITC conference has decided to 
 
 ## Application Requirements
 
-The application from the student should provide:
+The application should provide:
 
-- A concise CV (possibly in European format)
-- A letter stating why he/she wants to attend ITC 36 and how he/she would benefit from it. Students presenting at the PhD workshop should explicitly mention this in the letter.
-- The letter should be kept to a maximum of one page.
-- Contact information of the student’s advisor must also be reported.
+- A concise CV.
+- A letter stating why he/she wants to attend ITC 36 and how he/she would benefit from it. Students presenting at the PhD workshop should explicitly mention this in the letter. The letter should be kept to a maximum of one page.
+- In case of fulltime students the application should further include a letter from the advisor explaining why the applicant would benefit from attending ITC36 as well as how he/she could contribute to the conference.
 
-The application, letter, and CV must be sent to:
+The application, letter, and CV should be included in one pdf with font size 10 and must be submitted via [Easychair](https://easychair.org/conferences?conf=itc36tg).
 
-- **Theo Benson**: [theophilus [at] cmu [dot] edu](mailto:theophilus@cmu.edu)
-- **Jacek Rak**: [jrak [at] pg [dot] edu [dot] pl](mailto:jrak@pg.edu.pl)
+
 
 ## Responsibilities of Selected Students
 
 If selected, the student is expected to:
 
 - Attend ITC 36 and the PhD workshop.
-- Provide feedback within two weeks after the conference, either as a short video or a two-page report highlighting the benefits of attending the conference.
-- Highlight the impact on their own research, overall technical knowledge increase, and technical exchanges and potential collaboration with other attendees.
+- Provide feedback within two weeks after the conference, either as a short video or a two-page report highlighting the benefits of attending the conference with specific focus on:
+	- impact on their own research
+	- overall technical knowledge increase
+	- technical exchanges and potential collaboration with other attendees
 
 ## Important Dates
 

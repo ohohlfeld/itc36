@@ -42,3 +42,19 @@ Ivar Lykkes veg 1 A, 7075 Tiller<br>
 **Comfort Hotel Park**<br>
 Prinsens gt. 4A, 7012 Trondheim<br>
 
+## Getting to Trondheim
+
+There are daily flights from Oslo, Stockholm, Copenhagen and Amsterdam. For more information about getting to [Trondheim by air](https://visittrondheim.no/en/how-to-get-here/by-air/).
+
+Further, there are train connections to Oslo and Stockholm, which generally take quite long.
+
+##Travel to and from Trondheim Airport
+
+The train from the [Airport](https://avinor.no/en/airport/trondheim-airport/to-and-from-the-airport/bus-train-and-taxi/train) takes about 35 minutes to Trondheim City Centre. You can book it via [Vy](https://www.vy.no/en) (train operator) or via [AtB](https://www.atb.no/en/ticket/) (public transport company; recommended). The Airport Express train costs roughly 45 NOK.
+
+Buses
+There are different types of busses connecting Trondheim with the airport. There is Værnes [Expresessen](https://www.vaernesekspressen.no/) (Unibuss Ekspress), which takes ~40 minutes and costs ~235-285 NOK. There are also local buses – 4 minutes in walking distance to the terminal. Local routes in Trøndelag (route 311, 70 and 430) can be found at [AtB](https://www.atb.no/en/ticket/). Buses take ~30-45 minutes and cost roughly 45 NOK.
+
+Taxis
+Taxis take ~30 minutes and cost ~650 NOK, (agree the price beforehand) are available at the airport.
+

@@ -35,18 +35,6 @@ img{border:none;}
 
 p{margin:15px 0;}
 
-pre {
-    white-space: pre-wrap;       /* Since CSS 2.1 */
-    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
-    white-space: -pre-wrap;      /* Opera 4-6 */
-    white-space: -o-pre-wrap;    /* Opera 7 */
-    word-wrap: break-word;       /* Internet Explorer 5.5+ */
-    background-color:gray;
-  padding:10px;
-  background-color:lightgray;
-  border-color:black;
-  border:2px;
-}
 
 a, a:hover, input[type=submit], input[type=submit]:hover,
 .soc_r a img, .soc_r a:hover img{

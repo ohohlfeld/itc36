@@ -40,15 +40,19 @@ In case of questions please contact us via [itc36_crv [at] iik [dot] ntnu [dot] 
 ### Conference Header
 
 Each paper must include a header with the conference title on the first page. The text of the header has to be "2025 36th International Teletraffic Congress (ITC 36)" LaTeX users can insert the header by using the tikz package.
-```\usepackage{tikz}
-\usetikzlibrary{positioning}```
+```
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+```
 
 Additionally, the following commands need to be added after the IEEEkeywords environment.
-```\begin{tikzpicture}[overlay, remember picture]
+```
+\begin{tikzpicture}[overlay, remember picture]
 \path (current page.north) node (anchor) {};
 \node [below=of anchor] {2025 36th International Teletraffic Congress (ITC 36)};
-\end{tikzpicture}```
-<br>
+\end{tikzpicture}
+```
+
 
 ### Copyright Notice
 
@@ -56,7 +60,8 @@ Each paper must include a copyright notice at the bottom of the first page. The 
 LaTeX users can insert the copyright notice by adding the following commands right before \maketitle.
 ```
 \IEEEpubid{\makebox[\columnwidth]{978-3-948377-03-8/19/\$31.00 \copyright 2025 ITC \hfill} \hspace{\columnsep}\makebox[\columnwidth]{ }}
-```<br>
+```
+
 
 ### PDF eXpress
 

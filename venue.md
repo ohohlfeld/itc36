@@ -48,7 +48,7 @@ There are daily flights from Oslo, Stockholm, Copenhagen and Amsterdam. For more
 
 Further, there are train connections to Oslo and Stockholm, which generally take quite long.
 
-##Travel to and from Trondheim Airport
+## Travel to and from Trondheim Airport
 
 The train from the [Airport](https://avinor.no/en/airport/trondheim-airport/to-and-from-the-airport/bus-train-and-taxi/train) takes about 35 minutes to Trondheim City Centre. You can book it via [Vy](https://www.vy.no/en) (train operator) or via [AtB](https://www.atb.no/en/ticket/) (public transport company; recommended). The Airport Express train costs roughly 45 NOK.
 

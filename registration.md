@@ -8,7 +8,7 @@ menu-index: 4
 
 
 ## Registration {{ site.conference-name }}
-<br/>We are currently working on the regisration and will provide a link to the regisration system soon.<br/>
+<br/>You can register for ITC 36 via the following [link](https://ntnu.eventsair.com/itc36/registration).<br/>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

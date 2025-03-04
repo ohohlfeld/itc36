@@ -48,8 +48,7 @@ Additionally, the following commands need to be added after the IEEEkeywords env
 ```
 \begin{tikzpicture}[overlay, remember picture]
 \path (current page.north) node (anchor) {};
-\node [below=of anchor] {%
-2025 36th International Teletraffic Congress (ITC 36)};
+\node [below=of anchor] {2025 36th International Teletraffic Congress (ITC 36)};
 \end{tikzpicture}
 ```
 

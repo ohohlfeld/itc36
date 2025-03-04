@@ -35,6 +35,20 @@ img{border:none;}
 
 p{margin:15px 0;}
 
+pre {
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+    background-color: lightgrey;
+    border: 2px;
+    padding: 10px;
+    margin: 10px;
+    border-color: gray;
+    border-style: solid;
+}
+
 a, a:hover, input[type=submit], input[type=submit]:hover,
 .soc_r a img, .soc_r a:hover img{
 	text-decoration:none;

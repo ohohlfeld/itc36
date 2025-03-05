@@ -25,7 +25,7 @@ Limited number of rooms available for ITC36 attendees for 1595 NOK per night <br
 Book by e-mail front@hotelbakeriet.no with reference and date.
 
 
-**Comfort Hotel **<br>
+**Comfort Hotel**<br>
 Krambugata 11, Trondheim<br>
 [booking link](https://app.mews.com/distributor/17f7f66e-ce62-4b2b-b5a6-afe300c6a325?mewsAvailabilityBlockId=59572c35-c7ca-4175-8950-b27700cab3d1&mewsStart=2025-06-01&mewsEnd=2025-06-05)<br>
 Limited number of rooms available for ITC36 attendees for 1290 NOK per night <br>

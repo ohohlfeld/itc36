@@ -31,7 +31,7 @@ To submit the camera-ready copy, you need to complete the following steps by Mar
 * Include the conference header on the first page of your paper.
 * Process the paper with PDF eXpress to obtain an IEEE Xplore-compatible pdf file.
 * Upload the camera-ready version to via hotcrp.
-* Sign the [copyright form](https://itc36.itc-conference.org/assets/docs/ITC36_Copyrightform.doc) and sent it per email to [itc36_crv [at] iik [dot] ntnu [dot] no](mailto:itc36_crv@iik.ntnu.no). The subject of the email should include the submission number of the paper in hotcrp followed by "copyright form", e.g., " Paper 121 copyright form".
+* Sign the copyright form [[.docx](https://itc36.itc-conference.org/assets/docs/ITC36_Copyrightform.doc),[.pdf](https://itc36.itc-conference.org/assets/docs/ITC36_Copyrightform.pdf)] and sent it per email to [itc36_crv [at] iik [dot] ntnu [dot] no](mailto:itc36_crv@iik.ntnu.no). The subject of the email should include the submission number of the paper in hotcrp followed by "copyright form", e.g., " Paper 121 copyright form".
 
 Details on the copyright notice, the conference header, and PDF eXpress can be found below.
 

@@ -16,12 +16,29 @@ The room that will be used for the main conference is the **EL-6** that is reach
 
 ## Hotels
 
-To organize your stay, consider the following hotels located near the conference venue. The conference venue is good to reach from all hotels, either by foot or public transport. We have reserved rooms at Bakeriet, Quality Hotel Panorama, and Comfort Park Hotel. Please mind that there is an Iron Maiden concert on June 5th, potentially resulting in higher prices for this day. 
+To organize your stay, consider the following hotels located near the conference venue. The conference venue is good to reach from all hotels, either by foot or public transport. We have reserved rooms at Bakeriet, Quality Hotel Panorama, Comfort Hotel, and Comfort Park Hotel from June 1st up to June 5th. Please mind that there is an Iron Maiden concert on June 5th, potentially resulting in higher prices for this day. 
 
 **Best Western Plus Hotel Bakeriet**<br>
 Brattørgata 2, 7010 Trondheim <br>
-Kode: ITC36 <br>
 [hotel link](https://www.hotelbakeriet.com/)<br>
+Limited number of rooms available for ITC36 attendees for 1595 NOK per night <br>
+Book by e-mail front@hotelbakeriet.no with reference and date.
+
+
+**Comfort Hotel **<br>
+Krambugata 11, Trondheim<br>
+[booking link](https://app.mews.com/distributor/17f7f66e-ce62-4b2b-b5a6-afe300c6a325?mewsAvailabilityBlockId=59572c35-c7ca-4175-8950-b27700cab3d1&mewsStart=2025-06-01&mewsEnd=2025-06-05)<br>
+Limited number of rooms available for ITC36 attendees for 1290 NOK per night <br>
+
+**Comfort Hotel Park**<br>
+Prinsens gt. 4A, 7012 Trondheim<br>
+[booking link](https://app.mews.com/distributor/2de91a52-f190-4e33-8146-b08101323f8c?mewsAvailabilityBlockId=e8d1235b-58aa-46b9-a34b-b26f00bef1cb&mewsStart=2025-06-01&mewsEnd=2025-06-05)<br>
+Limited number of rooms available for ITC36 attendees for 1210 NOK per night <br>
+
+**Quality Hotel Panorama**<br>
+Ivar Lykkes veg 1 A, 7075 Tiller<br>
+[booking link](https://app.mews.com/distributor/36851ee6-af58-4371-8987-b099015ff343?mewsAvailabilityBlockId=aa881302-7d82-4f6a-80d0-b26d00f47023&mewsStart=2025-06-01&mewsEnd=2025-06-05)<br>
+Limited number of rooms available for ITC36 attendees for 1505 NOK per night <br>
 
 **Scandic Solsiden**<br>
 Beddingen 1, 7042 Trondheim<br>

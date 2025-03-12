@@ -19,7 +19,6 @@ For your paper to be included in the final programme and to be published in the 
 
 ## Preparing the final manuscript
 
-March 4th 2025: These instructions are not yet finalized and will be further updated.
 
 ### Auhor Final Paper Preparation and Submission Instructions
 

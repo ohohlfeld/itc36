@@ -8,14 +8,14 @@ menu-index: 5
 
 # Broadening Participation in ITC 
 
-The International Advisory Committee (IAC) of the ITC conference has decided to offer a number of travel grants that will be available to broaden participation in {{ site.conference-name }}. For that, travel grants are available to support full-time students and researchers who self-identify as marginalized and/or underrepresented in the community, and especially those who lack funding opportunities in their institutions. The amount of each TG is up to EUR 1000 that can be used to cover student travel expenses related to attending the conference, such as student registration fee, airline ticket, and hotel accommodation expenses. The exact value depends on geographical areas to maximize reach.
+The International Advisory Committee (IAC) of the ITC conference has decided to offer a number of travel grants that will be available to broaden participation in {{ site.conference-name }}. For that, travel grants are available to support full-time students and researchers who self-identify as marginalized and/or underrepresented in the community, and especially those who lack funding opportunities in their institutions. The amount of each TG is up to EUR 1000 that can be used to cover  travel expenses related to attending the conference, such as registration fee, airline ticket, and hotel accommodation expenses. The exact value depends on geographical areas to maximize reach.
 
 ## Application Requirements
 
 The application should provide:
 
 - A concise CV.
-- A letter stating why he/she wants to attend ITC 36 and how he/she would benefit from it. Students presenting at the PhD workshop should explicitly mention this in the letter. The letter should be kept to a maximum of one page.
+- A letter stating why he/she wants to attend ITC 36 and how he/she would benefit from it. Students presenting at the PhD workshop should explicitly mention this in the letter.  The letter should be kept to a maximum of one page.
 - In case of fulltime students the application should further include a letter from the advisor explaining why the applicant would benefit from attending ITC36 as well as how he/she could contribute to the conference.
 
 The application, letter, and CV should be included in one pdf with font size 10 and must be submitted via [Easychair](https://easychair.org/conferences?conf=itc36tg).

@@ -22,9 +22,9 @@ The application, letter, and CV should be included in one pdf with font size 10 
 
 
 
-## Responsibilities of Selected Students
+## Responsibilities of Selected Awardees
 
-If selected, the student is expected to:
+If selected, the awardee is expected to:
 
 - Attend ITC 36 and the PhD workshop.
 - Provide feedback within two weeks after the conference, either as a short video or a two-page report highlighting the benefits of attending the conference with specific focus on:

@@ -23,7 +23,7 @@ The main topics of the workshop focus on the following areas:
 Each author should submit 1-page (double column - IEEE template) abstract. All the submitted abstracts will be reviewed by the workshop organizers.
 The two best abstracts will be selected for a 20 minute presentation in a special spotlight session. 
 
-Submission page: https://easychair.org/conferences/?conf=phditc25
+Submission page: [EasyChair](https://easychair.org/conferences/?conf=phditc25)
 
 ## Registration and Presenter Information
 

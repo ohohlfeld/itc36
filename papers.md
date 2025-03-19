@@ -4,6 +4,8 @@ menu: top-nav
 menu-index: 0
 ---
 
+# Accepted Papers
+
 * _Energy/Performance Trade-Off in RANs with Dynamic Management of Frequency Bands_ - Diletta Olliaro (Ca' Foscari University of Venice), Michela Meo (Politecnico di Torino), Matteo Sereno (Università di Torino), Andrea Marin (University Ca’ Foscari of Venice), Marco Ajmone Marsan (IMDEA Networks Institute)
 * _Dispatching Odyssey: Exploring Performance in Computing Clusters under Real-World Workloads_ - Mert Yildiz (University of Rome Sapienza), Alexey Rolich (University of Rome Sapienza), Andrea Baiocchi (University of Rome Sapienza)
 * _Sparse Mean Field Load Balancing in Large Localized Queueing Systems_ - Anam Tahir (Leibniz Universität Hannover), Kai Cui (Technische Universität Darmstadt), Heinz Koeppl (Technische Universität Darmstadt), Anam Tahir (University of Duisburg Essen)

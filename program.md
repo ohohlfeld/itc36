@@ -15,14 +15,16 @@ The technical sessions and the PhD workshop of ITC36 will take place from Monday
 ## Monday
 
 **9:15-10:30 Keynote I**
+
 _Living on the Edge for a Quarter Century: A Personal Retrospective_ - Ramesh K. Sitaraman (University of Massachusetts Amherst and Akamai Technologies)
 
 **11:00-12:30 Technical Session I: Energy Savings**
-Energy/Performance Trade-Off in RANs with Dynamic Management of Frequency Bands_ - Diletta Olliaro (Ca' Foscari University of Venice), Michela Meo (Politecnico di Torino), Matteo Sereno (Università di Torino), Andrea Marin (University Ca’ Foscari of Venice), Marco Ajmone Marsan (IMDEA Networks Institute)
 
-Network Sharing: a pathway to Sustainability and Carbon Footprint Mitigation in Radio Access Networks_ - Daniela Renga (Politecnico di Torino), Michela Meo (Politecnico di Torino), Loutfi Nuaymi (IMT Atlantique, Rennes)
+_Energy/Performance Trade-Off in RANs with Dynamic Management of Frequency Bands_ - Diletta Olliaro (Ca' Foscari University of Venice), Michela Meo (Politecnico di Torino), Matteo Sereno (Università di Torino), Andrea Marin (University Ca’ Foscari of Venice), Marco Ajmone Marsan (IMDEA Networks Institute)
 
-A Fast Algorithm for Multiserver Queueing Systems with Setup Times and Power-saving Modes_ - Thu Le-Anh (University of Tsukuba), Tuan Phung-Duc (University of Tsukuba)
+_Network Sharing: a pathway to Sustainability and Carbon Footprint Mitigation in Radio Access Networks_ - Daniela Renga (Politecnico di Torino), Michela Meo (Politecnico di Torino), Loutfi Nuaymi (IMT Atlantique, Rennes)
+
+_A Fast Algorithm for Multiserver Queueing Systems with Setup Times and Power-saving Modes_ - Thu Le-Anh (University of Tsukuba), Tuan Phung-Duc (University of Tsukuba)
 
 
 **16:00-17:30 Technical Session II: Reliability**
@@ -36,9 +38,11 @@ _Scalable Verification of Routing Loops in Multi-Protocol Multi-Instance IP Netw
 ## Tuesday
 
 **9:15-10:30 Keynote II**
+
 _Revolutionizing Datacenter Networks with Optical Circuit Switches and Self-Adjusting Topologies_ - Stefan Schmid (Technical University of Berlin, Germany)
 
 **11:00-12:30 Technical Session III: Measurements**
+
 _On The Evolution of Home Gateways_ - Tim Neubert (University of Augsburg), Rolf Winter (Technical University of Applied Sciences Augsburg), Jonas Winkler (Technical University of Applied Sciences Augsburg)
 
 _DDoS on Repeat: Measuring Pulse-Wave DDoS in the Wild_ - Daniel Kopp (DE-CIX), Oliver Hohlfeld (University of Kassel)
@@ -49,6 +53,7 @@ _Continuous Integration for Networks Supporting Low-Latency Using Hybrid Network
 ## Wednesday
 
 **11:00-12:30 Technical Session IV: Optimization**
+
  _Sparse Mean Field Load Balancing in Large Localized Queueing Systems_ - Anam Tahir (Leibniz Universität Hannover), Kai Cui (Technische Universität Darmstadt), Heinz Koeppl (Technische Universität Darmstadt), Anam Tahir (University of Duisburg Essen)
 
 _Server Selection and Inference Rate Optimization in AoI-Driven Distributed Systems_ - Leonardo Badia (Università di Padova), Paolo Castagno (Università di Torino), Vincenzo Mancuso (IMDEA Networks Institute), Matteo Sereno (Università di Torino), Marco Ajmone Marsan (IMDEA Networks Institute)

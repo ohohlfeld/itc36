@@ -7,3 +7,4 @@ Technical Sponsors
 Financial Sponsors
 
 [<img src="../assets/images/sponsors/NTNU.png">](https://www.ntnu.no/)
+[<img src="../assets/images/sponsors/nfr.png">](https://www.ntnu.no/)

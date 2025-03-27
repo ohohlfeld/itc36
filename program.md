@@ -65,3 +65,23 @@ _A Discrete-Time Model of the 5G New Radio Uplink Channel_ - Simon Raffeck (Univ
 _Dispatching Odyssey: Exploring Performance in Computing Clusters under Real-World Workloads_ - Mert Yildiz (University of Rome Sapienza), Alexey Rolich (University of Rome Sapienza), Andrea Baiocchi (University of Rome Sapienza)
 
 _Mobility Aware Task Migration in Vehicular Edge Computing Networks_ - Rim Sayegh (ESME Research Lab, Ivry sur Seine, France), Hela Marouane (ESME Research Lab, Ivry sur Seine, France), Sahar Hoteit (Université Paris-Saclay, CNRS, CentraleSupélec, Laboratoire des Signaux et Systèmes (L2S), Gif-sur-Yvette, France), Abdulhalim Dandoush (University of Doha for Science and Technology, Doha, Qatar)
+
+**15:00-15:15 End of Conference**
+
+# WONECAL Program
+
+## Wednesday
+
+**15:15-15:30 Workshop Opening**
+
+**15:30-17:10 NC Session 1  **
+
+## Thursday
+
+**09:15-10:30 NC Session 2**
+
+**11:00-12:30 NC Session 3 / Closing **
+
+
+
+

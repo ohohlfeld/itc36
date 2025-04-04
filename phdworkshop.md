@@ -33,7 +33,7 @@ Presenters of the PhD workshop will have to prepare:
 - All presenters: A poster to be presented during the poster session.
 - The winners of the 2 best abstract awards should prepare a 20-minute presentation. Each presentation will be followed by 10 minutes of questions and answers.
  
-Submission deadline is **April 4th, 2025**. 
+Submission deadline is **April 11th, 2025**. 
 
 The winners of the 2 best abstract awards will be announced on April 15th. 
 

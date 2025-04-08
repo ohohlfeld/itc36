@@ -37,9 +37,9 @@ _Scalable Verification of Routing Loops in Multi-Protocol Multi-Instance IP Netw
 
 ## Tuesday
 
-**9:15-10:30 Keynote II**
+**9:15-10:30 Award Session **
 
-_Revolutionizing Datacenter Networks with Optical Circuit Switches and Self-Adjusting Topologies_ - Stefan Schmid (Technical University of Berlin, Germany)
+
 
 **11:00-12:30 Technical Session III: Measurements**
 
@@ -51,6 +51,10 @@ _Continuous Integration for Networks Supporting Low-Latency Using Hybrid Network
 
 
 ## Wednesday
+
+**9:15-10:30 Keynote II**
+
+_Revolutionizing Datacenter Networks with Optical Circuit Switches and Self-Adjusting Topologies_ - Stefan Schmid (Technical University of Berlin, Germany)
 
 **11:00-12:30 Technical Session IV: Optimization**
 
@@ -72,15 +76,43 @@ _Mobility Aware Task Migration in Vehicular Edge Computing Networks_ - Rim Sayeg
 
 ## Wednesday
 
-**15:15-15:30 Workshop Opening**
+**15:15-15:45 Workshop Registration and Coffee Break**
 
-**15:30-17:10 NC Session 1  **
+**15:45-17:30 Opening and Session I: Stochastic Network Calculus**
+
+_Opening_ - Yuming Jiang and Lisa Maile
+
+_Telescoping-Tightness Single-Node Performance Bounds_ - Amr Rizk, Leibniz University Hannover, Germany 
+
+_Stochastic Performance Bounds Under Weak Service - Minimal Arrival Guarantees as Enabler_ - Vlad-Cristian Constantin, University of Kaiserslautern-Landau (RPTU), Germany
+
+_Delay Bounds in IEEE 802.11 Networks Under Non-Saturated Conditions: Do Practical Models Improve Accuracy?_ - Orangel Azuaje Contreras, University of Porto, Portugal  
+
+_Statistical Delay QoS Optimization for XR Traffic over WiFi Networks_ - Linlin Zhao, Jilin University, China
+
+**18:30 ITC/WONECA Social Activity**
+
 
 ## Thursday
 
-**09:15-10:30 NC Session 2**
+**09:15-10:30 Session II: Deterministic Network Calculus**
 
-**11:00-12:30 NC Session 3 / Closing **
+_Improving Arrival Curves for Flow Splitting_ - Edoardo Loni, University of Pisa, Italy 
+
+_Per-Flow Performance Bounds for a FIFO Server Beyond Token-Bucket-Constrained Arrivals_ - Lukas Wildberger, University of Kaiserslautern-Landau (RPTU), Germany
+
+_Using Minimal Arrival Curves to Derive Per-Flow Performance Bounds in (Tandem) Networks with Complex Feedback Structures_ - Anja Hamscher, University of Kaiserslautern-Landau (RPTU), Germany
+
+
+**11:00-12:30 Session III: Tool and Applications**
+
+_Nancy.Expressions: A Library for Automated Optimizations_- Raffaele Zippo, University of Pisa, Italy
+
+_Network Calculus-Based Co-Design for Real-Time Performance and Resource Optimization in TSN_ - Luxi Zhao, BUAA, China 
+
+_A Network Calculus Model of Congestion Control in Data Center Networks_ - Natchanon Luangsomboon, University of Toronto, Canada
+
+_Impact of Packetization on Network Calculus Analysis_ - Yuming Jiang, NTNU, Norway 
 
 
 

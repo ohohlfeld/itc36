@@ -58,7 +58,6 @@ _Revolutionizing Datacenter Networks with Optical Circuit Switches and Self-Adju
 
 **11:00-12:30 Technical Session IV: Optimization**
 
- _Sparse Mean Field Load Balancing in Large Localized Queueing Systems_ - Anam Tahir (Leibniz Universität Hannover), Kai Cui (Technische Universität Darmstadt), Heinz Koeppl (Technische Universität Darmstadt), Anam Tahir (University of Duisburg Essen)
 
 _Server Selection and Inference Rate Optimization in AoI-Driven Distributed Systems_ - Leonardo Badia (Università di Padova), Paolo Castagno (Università di Torino), Vincenzo Mancuso (IMDEA Networks Institute), Matteo Sereno (Università di Torino), Marco Ajmone Marsan (IMDEA Networks Institute)
 

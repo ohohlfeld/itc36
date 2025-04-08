@@ -16,7 +16,7 @@ The room that will be used for the main conference is the **EL-6** that is reach
 
 ## Hotels
 
-To organize your stay, consider the following hotels located near the conference venue. The conference venue is good to reach from all hotels, either by foot or public transport. We have reserved rooms at Bakeriet, Quality Hotel Panorama, Comfort Hotel, and Comfort Park Hotel from June 1st up to June 5th. Please mind that there is an Iron Maiden concert on June 5th, potentially resulting in higher prices for this day. 
+To organize your stay, consider the following hotels located near the conference venue. The conference venue is good to reach from all hotels, either by foot or public transport. We have reserved rooms at Bakeriet, Quality Hotel Panorama, Comfort Hotel, and Comfort Park Hotel from June 1st up to June 5th. The promo code for Hotel Lerkendal covers the period from June 1st to June 6th. Please mind that there is an Iron Maiden concert on June 5th, potentially resulting in higher prices for this day. 
 
 **Best Western Plus Hotel Bakeriet**<br>
 Brattørgata 2, 7010 Trondheim <br>

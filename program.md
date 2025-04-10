@@ -71,7 +71,7 @@ _Mobility Aware Task Migration in Vehicular Edge Computing Networks_ - Rim Sayeg
 
 **15:00-15:15 End of Conference**
 
-# WONECAL Program
+# WONECA Program
 
 ## Wednesday
 

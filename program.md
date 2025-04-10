@@ -10,7 +10,7 @@ The technical sessions and the PhD workshop of ITC36 will take place from Monday
 
 <div style="overflow: hidden; margin-top:10px;">
     <img src="{{ site.baseurl }}/assets/images/tentative_program_small.png" alt="Program" style="float: left; margin-right: 20px; margin-bottom: 10px; width:100%">
-/div>
+</div>
 
 
 

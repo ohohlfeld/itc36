@@ -8,7 +8,9 @@ menu-index: 6
 
 The technical sessions and the PhD workshop of ITC36 will take place from Monday 2nd to Wednesday 4th of June. The 2025 International Workshop on Network Calculus will take place on Wednesday 4th and Thursday 5th of June. 
 
-![]({{site.baseurl}}/assets/images/tentative program_small.png)
+<div style="overflow: hidden; margin-top:10px;">
+    <img src="{{ site.baseurl }}/assets/images/tentative_program_small.png" alt="Photo of Stefan Schmid" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+/div>
 
 
 

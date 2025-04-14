@@ -42,7 +42,7 @@ _Scalable Verification of Routing Loops in Multi-Protocol Multi-Instance IP Netw
 
 **9:15-10:30 Award Session**
 
-
+_Arne Jensen Lifetime Award_ - Deep Medhi (Program Director, U.S. National Science Foundation)
 
 **11:00-12:30 Technical Session III: Measurements**
 

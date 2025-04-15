@@ -37,7 +37,22 @@ Submission deadline is **April 11th, 2025**.
 
 The winners of the 2 best abstract awards will be announced on April 15th. 
 
+## Accepted abstracts
 
+_Stochastic Models for Remote Timing Attacks_ - Simone Bozzolan, Diletta Olliaro, Stefano Calzavara, Andrea Marin, Gianfranco Balbo, Matteo Sereno
+
+_Tenant-Based Virtual Network Embedding with Service Function Chaining_ - Trond Vatten
+
+_SIC-based Massive Random Multiple Access: A Practical Approach_ Asmad Bin Abdul Razzaque, Alexey Rolich and Andrea Baiocchi
+
+_Performability-Aware Network Slicing for Mission-Critical Smart Grid Communications_ - H V Kalpanie Mendis
+
+_Quantifying the Impact of 5G Network Slicing on Quality of Experience and Survivability_ - Marija Gajić
+
+_Parameterizing 5G NR to Enable Novel Mobile Use Cases_ - Sebastian G. Grøsvik
+
+
+_Conducting Time-synchronized Measurements in 5G Campus Networks_ - Simon Raffeck, Stefan Geißler and Tobias Hoßfeld
 
 
 

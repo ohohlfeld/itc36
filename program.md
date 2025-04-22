@@ -30,6 +30,14 @@ _Network Sharing: a pathway to Sustainability and Carbon Footprint Mitigation in
 _A Fast Algorithm for Multiserver Queueing Systems with Setup Times and Power-saving Modes_ - Thu Le-Anh (University of Tsukuba), Tuan Phung-Duc (University of Tsukuba)
 
 
+**14:00-15:30 Invited Session - What's new In PEVA?**
+
+_Energy-Efficient Server Operations with Batch Processing and Setup Delays in Data Centers_ - Thu Le-Anh (University of Tsukuba, Tsukuba, Japan)
+
+_Computational algorithms and arrival theorem for non-conventional product-form solutions_ - Diletta Olliaro (Università Ca’ Foscari Venezia, Venice, Italy)
+
+_Dimensioning Leaky Buckets in Stochastic Environments_ - András Mészáros (Budapest University of Technology and Economics, Budapest, Hungary)
+
 **16:00-17:30 Technical Session II: Reliability**
 
 _Providing Throughput Guarantees in Multi-Domain Networks in 6G_ - Fidan Mehmeti (Chair of Communications Networks, Technical University of Munich), Wolfgang Kellerer (Technical University of Munich)

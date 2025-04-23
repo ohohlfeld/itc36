@@ -55,12 +55,6 @@ menu-index: 4
     <td class="tg-mzrp">Full access to the conference</td>
   </tr>
   <tr>
-    <td class="tg-gmor">Student presenting at PhD workshop</td>
-    <td class="tg-gmor">tbd</td>
-    <td class="tg-gmor">4200 NOK (ca. 360 €)</td>
-    <td class="tg-gmor">Full access to the conference</td>
-  </tr>
-  <tr>
     <td class="tg-mzrp">Workshop Day Registration</td>
     <td class="tg-mzrp">-</td>
     <td class="tg-mzrp">1000 NOK (ca. 90 €)</td>

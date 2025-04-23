@@ -49,16 +49,22 @@ menu-index: 4
     <td class="tg-gmor">Full access to the conference</td>
   </tr>
   <tr>
-    <td class="tg-mzrp">Student Full Registration**</td>
+    <td class="tg-mzrp">Student Registration**</td>
     <td class="tg-mzrp">-</td>
     <td class="tg-mzrp">4200 NOK (ca. 360 €)</td>
     <td class="tg-mzrp">Full access to the conference</td>
   </tr>
   <tr>
-    <td class="tg-mzrp">Workshop Day Registration</td>
+    <td class="tg-gmor">Student presenting at PhD workshop</td>
+    <td class="tg-gmor"> May 2nd, 2025</td>
+    <td class="tg-gmor">4200 NOK (ca. 360 €)</td>
+    <td class="tg-gmor">Full access to the conference</td>
+  </tr>
+  <tr>
+    <td class="tg-mzrp">Workshop Registration</td>
     <td class="tg-mzrp">-</td>
     <td class="tg-mzrp">1000 NOK (ca. 90 €)</td>
-    <td class="tg-mzrp">Access to the technical program on the workshop day</td>
+    <td class="tg-mzrp">Access to the technical program of the Workshop on Network Calculus</td>
   </tr>
 </tbody>
 </table>

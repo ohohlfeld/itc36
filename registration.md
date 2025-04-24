@@ -49,7 +49,7 @@ menu-index: 4
     <td class="tg-gmor">Full access to the conference</td>
   </tr>
   <tr>
-    <td class="tg-mzrp">Student Registration**</td>
+    <td class="tg-mzrp">Student Registration</td>
     <td class="tg-mzrp">-</td>
     <td class="tg-mzrp">4200 NOK (ca. 360 €)</td>
     <td class="tg-mzrp">Full access to the conference</td>
@@ -72,4 +72,4 @@ menu-index: 4
 
 **NB**<br/>
 \*   A full registration is needed per each paper presented at the conference.<br/>
-\**  A student full registration is needed per each presentation at the PhD workshop.<br/>
+

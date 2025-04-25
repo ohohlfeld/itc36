@@ -11,14 +11,15 @@ The INTERNATIONAL TELETRAFFIC CONGRESS {{ site.conference-name }}, to be held {{
 
 ### News and Announcements
 
+* April 25, 2025: Deep Medhi (NSF) receives the 2025 <a href="{{ site.baseurl }}/keynotes.html#arne-jensen-lifetime-award">Arne Jensen Lifetime Award</a>. Congratulations!
 * April 15, 2025: Accepted abstracts for the PhD Workshop have been posted via <a href="{{ site.baseurl }}/phdworkshop.html">PhD Workshop</a>.
 * March 18, 2025: Accepted papers have been posted via <a href="{{ site.baseurl }}/papers.html">Accepted Papers</a>.
 * March 1, 2025: The paper notifications have been sent out and we congratulate the authors of accepted papers. We are currently working on the detailed program which will be available soon. Preliminary information are available via <a href="{{ site.baseurl }}/program.html">Program</a>.
 * February 14, 2025: Details for the <a href="{{ site.baseurl }}/phdworkshop.html">PhD Workshop</a> held jointly with ITC are now available.
 * December 18, 2024: Paper <a href="https://itc2025.hotcrp.com/">registration/submission</a> deadline extended to January 10, 2025 (AoE).
-* December 14, 2024: Keynote by <a href="{{ site.baseurl }}/keynotes.html#keynote-2">Ramesh Sitaraman</a> (UMass and AKAMAI) confirmed.
+* December 14, 2024: Keynote by <a href="{{ site.baseurl }}/keynotes.html#keynote-ii">Ramesh Sitaraman</a> (UMass and AKAMAI) confirmed.
 * November 25, 2024: The <a href="{{ site.baseurl }}/woneca.html">Workshop on Network Calculus</a> will be held jointly with ITC.
-* November 20, 2024: Keynote by <a href="{{ site.baseurl }}/keynotes.html#keynote-1">Stefan Schmid</a> (TU Berlin) confirmed.
+* November 20, 2024: Keynote by <a href="{{ site.baseurl }}/keynotes.html#keynote-I">Stefan Schmid</a> (TU Berlin) confirmed.
 
 <!--
 ### Open Access and Digital Libraries

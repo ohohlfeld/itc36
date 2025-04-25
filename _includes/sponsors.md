@@ -9,3 +9,5 @@ Financial Sponsors
 [<img src="../assets/images/sponsors/NTNU.png">](https://www.ntnu.no/)
 
 [<img src="../assets/images/sponsors/nfr.png">](https://www.nfr.no/)
+
+[<img src="../assets/images/sponsors/inr_logo_rouge.jpg">](https://www.inria.fr)

@@ -10,4 +10,4 @@ Financial Sponsors
 
 [<img src="../assets/images/sponsors/nfr.png">](https://www.nfr.no/)
 
-[<img src="../assets/images/sponsors/inr_logo_rouge.jpg">](https://www.inria.fr)
+[<img src="../assets/images/sponsors/inr_logo_rouge.jpg" width="144">](https://www.inria.fr)

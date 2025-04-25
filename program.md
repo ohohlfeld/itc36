@@ -17,7 +17,7 @@ The technical sessions and the PhD workshop of ITC36 will take place from Monday
 
 ## Monday
 
-**9:15-10:30 Keynote I**
+**9:15-10:30 <a href="{{ site.baseurl }}/keynotes.html#keynote-I">Keynote I</a>**
 
 _Living on the Edge for a Quarter Century: A Personal Retrospective_ - Ramesh K. Sitaraman (University of Massachusetts Amherst and Akamai Technologies)
 
@@ -33,10 +33,13 @@ _A Fast Algorithm for Multiserver Queueing Systems with Setup Times and Power-sa
 **14:00-15:30 Invited Session - What's new In PEVA?**
 
 _Energy-Efficient Server Operations with Batch Processing and Setup Delays in Data Centers_ - Thu Le-Anh (University of Tsukuba, Tsukuba, Japan)
+<div style="width:80%; border:1px solid red;margin-bottom:10px;">Paper: Thu Le-Anh, Tuan Phung-Duc, "Energy-performance tradeoffs in server farms with batch services and setup times," Performance Evaluation, Volume 168, June 2025, 102468, https://doi.org/10.1016/j.peva.2025.102468.</div>
 
 _Computational algorithms and arrival theorem for non-conventional product-form solutions_ - Diletta Olliaro (Università Ca’ Foscari Venezia, Venice, Italy)
+<div style="width:80%; border:1px solid red;margin-bottom:10px;">Paper: Diletta Olliaro, Gianfranco Balbo, Andrea Marin, Matteo Sereno, "Computational algorithms and arrival theorem for non-conventional product-form solutions," Performance Evaluation, Volume 168, June 2025, 102469, https://doi.org/10.1016/j.peva.2025.102469. </div>
 
 _Dimensioning Leaky Buckets in Stochastic Environments_ - András Mészáros (Budapest University of Technology and Economics, Budapest, Hungary)
+<div style="width:80%; border:1px solid red;margin-bottom:10px;">Paper: Peter Buchholz, András Mészáros, Miklós Telek, "Dimensioning leaky buckets in stochastic environments," Performance Evaluation, Volume 167, March 2025, 102461, https://doi.org/10.1016/j.peva.2024.102461.</div>
 
 **16:00-17:30 Technical Session II: Reliability**
 
@@ -48,7 +51,7 @@ _Scalable Verification of Routing Loops in Multi-Protocol Multi-Instance IP Netw
 
 ## Tuesday
 
-**9:15-10:30 Award Session**
+**9:15-10:30 <a href="{{ site.baseurl }}/keynotes.html#arne-jensen-lifetime-award">Award Session</a>**
 
 _Arne Jensen Lifetime Award_ - Deep Medhi (Program Director, U.S. National Science Foundation)
 
@@ -68,6 +71,20 @@ _Conducting Time-synchronized Measurements in 5G Campus Networks_ - Simon Raffec
 
 Lightning Talks
 
+_Stochastic Models for Remote Timing Attacks_ - Simone Bozzolan, Diletta Olliaro, Stefano Calzavara, Andrea Marin, Gianfranco Balbo, Matteo Sereno
+
+_Tenant-Based Virtual Network Embedding with Service Function Chaining_ - Trond Vatten
+
+_SIC-based Massive Random Multiple Access: A Practical Approach_ Asmad Bin Abdul Razzaque, Alexey Rolich and Andrea Baiocchi
+
+_Performability-Aware Network Slicing for Mission-Critical Smart Grid Communications_ - H V Kalpanie Mendis
+
+_Quantifying the Impact of 5G Network Slicing on Quality of Experience and Survivability_ - Marija Gajić
+
+_Parameterizing 5G NR to Enable Novel Mobile Use Cases_ - Sebastian G. Grøsvik
+
+_Conducting Time-synchronized Measurements in 5G Campus Networks_ - Simon Raffeck, Stefan Geißler and Tobias Hoßfeld
+
 **15:30-16:30 Extended Coffee Break with Poster Session**
 
 
@@ -76,7 +93,7 @@ Lightning Talks
 
 ## Wednesday
 
-**9:15-10:30 Keynote II**
+**9:15-10:30 <a href="{{ site.baseurl }}/keynotes.html#keynote-II">Keynote II</a>**
 
 _Revolutionizing Datacenter Networks with Optical Circuit Switches and Self-Adjusting Topologies_ - Stefan Schmid (Technical University of Berlin, Germany)
 

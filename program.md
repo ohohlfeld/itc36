@@ -33,13 +33,13 @@ _A Fast Algorithm for Multiserver Queueing Systems with Setup Times and Power-sa
 **14:00-15:30 Invited Session - What's new In PEVA?**
 
 _Energy-Efficient Server Operations with Batch Processing and Setup Delays in Data Centers_ - Thu Le-Anh (University of Tsukuba, Tsukuba, Japan)
-<div style="width:80%; border:1px solid red;margin-bottom:10px;">Paper: Thu Le-Anh, Tuan Phung-Duc, "Energy-performance tradeoffs in server farms with batch services and setup times," Performance Evaluation, Volume 168, June 2025, 102468, https://doi.org/10.1016/j.peva.2025.102468.</div>
+<div style="width:80%; border:1px solid red;margin:auto;padding:5px;background-color:#F0F8FF">Paper: Thu Le-Anh, Tuan Phung-Duc, "Energy-performance tradeoffs in server farms with batch services and setup times," Performance Evaluation, Volume 168, June 2025, 102468, https://doi.org/10.1016/j.peva.2025.102468.</div>
 
 _Computational algorithms and arrival theorem for non-conventional product-form solutions_ - Diletta Olliaro (Università Ca’ Foscari Venezia, Venice, Italy)
-<div style="width:80%; border:1px solid red;margin-bottom:10px;">Paper: Diletta Olliaro, Gianfranco Balbo, Andrea Marin, Matteo Sereno, "Computational algorithms and arrival theorem for non-conventional product-form solutions," Performance Evaluation, Volume 168, June 2025, 102469, https://doi.org/10.1016/j.peva.2025.102469. </div>
+<div style="width:80%; border:1px solid red;margin:auto;padding:5px;background-color:#F0F8FF">Paper: Diletta Olliaro, Gianfranco Balbo, Andrea Marin, Matteo Sereno, "Computational algorithms and arrival theorem for non-conventional product-form solutions," Performance Evaluation, Volume 168, June 2025, 102469, https://doi.org/10.1016/j.peva.2025.102469. </div>
 
 _Dimensioning Leaky Buckets in Stochastic Environments_ - András Mészáros (Budapest University of Technology and Economics, Budapest, Hungary)
-<div style="width:80%; border:1px solid red;margin-bottom:10px;">Paper: Peter Buchholz, András Mészáros, Miklós Telek, "Dimensioning leaky buckets in stochastic environments," Performance Evaluation, Volume 167, March 2025, 102461, https://doi.org/10.1016/j.peva.2024.102461.</div>
+<div style="width:80%; border:1px solid red;margin:auto;padding:5px;background-color:#F0F8FF">Paper: Peter Buchholz, András Mészáros, Miklós Telek, "Dimensioning leaky buckets in stochastic environments," Performance Evaluation, Volume 167, March 2025, 102461, https://doi.org/10.1016/j.peva.2024.102461.</div>
 
 **16:00-17:30 Technical Session II: Reliability**
 

@@ -14,6 +14,21 @@ To see the location on Google maps, please [click here](https://maps.app.goo.gl/
 The room that will be used for the main conference is the **EL-6** that is reached as shown in [this page](https://link.mazemap.com/k7xOFcei).<br> 
 
 
+## Social Activities
+
+**Welcome Reception**<br>
+
+The Welcome Reception will take place at the [Cafe Victoria](https://ringve.no/en/caf-victoria), located in the Ringve Musical Museum, surrounded by the [botanical garden](https://www.ntnu.edu/museum/ringve-botanical-garden). Go for a walk, experience a diversity of plants, shrubs and trees, find inspiration for your own garden or simply relax while enjoying the view on the fjord. The venue can easily be reached via the bus lines 2 and 20.
+
+**Social Event**<br>
+
+The Social Event on Tuesday will provide us a different perspective on Trondheim. Traveling by sea, through the fjords and on the rivers has always been an important part of life in Norway, and we will travel back through the history of Trondheim while floating down the city river Nidelva. Following this experience we will have dinner in the restaurant [Troll](https://trollrestaurant.no/).
+
+**Visit to Sverresborg Folk Museum**<br>
+
+On Wednesday we will jointly have dinner with the participants of the WONECA workshop at the [Sverresborg Folkmuseum](https://sverresborg.no/en). Sverresborg Trøndelag Folk Museum is an open-air museum in picturesque surroundings around the ruins of King Sverre’s Castle, Norway’s oldest medieval castle.  
+
+
 ## Hotels
 
 To organize your stay, consider the following hotels located near the conference venue. The conference venue is good to reach from all hotels, either by foot or public transport. We have reserved rooms at Bakeriet, Quality Hotel Panorama, Comfort Hotel, and Comfort Park Hotel from June 1st up to June 5th. The promo code for Hotel Lerkendal covers the period from June 1st to June 6th. Please mind that there is an Iron Maiden concert on June 5th, potentially resulting in higher prices for this day. 
@@ -59,11 +74,13 @@ Ivar Lykkes veg 1 A, 7075 Tiller<br>
 **Comfort Hotel Park**<br>
 Prinsens gt. 4A, 7012 Trondheim<br>
 
+
 ## Getting to Trondheim
 
 There are daily flights from Oslo, Stockholm, Copenhagen and Amsterdam. For more information about getting to [Trondheim by air](https://visittrondheim.no/en/how-to-get-here/by-air/).
 
 Further, there are train connections to Oslo and Stockholm, which generally take quite long.
+
 
 ## Travel to and from Trondheim Airport
 

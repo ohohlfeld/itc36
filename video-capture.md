@@ -12,14 +12,14 @@ title: Program
 
 
 ### What to submit
-* A preferably maximum three-minute video sharing experiences and memories related to ITC
+* A preferably maximum two-minute video sharing experiences and memories related to ITC
 * The video must be in mp4 format.
 * Video resolutions must be 720p or higher. Aspect ratio should be 16:9.
 * Submission via https://nettskjema.no/a/519330
 
 ### How to prepare
 
-There are a wide range of possibilties to prepare the video. Some thoughts about potentially good candidates below.
+There are a wide range of possibilties to prepare the video. Feel free to include slides, pictures or anything else you want to share with the community. Some thoughts about potentially good tools below.
 
 * Slide Show in Powerpoint - Instructions for different platforms/versions are [here](https://support.office.com/en-us/article/record-a-slide-show-with-narration-and-slide-timings-0b9502c6-5f6c-40ae-b1e7-e47d8741161c). 
 * Local Recording in Zoom: Instructions are [here](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063640). Make sure to perform local recording with at least HD quality. 

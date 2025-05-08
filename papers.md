@@ -8,7 +8,6 @@ menu-index: 0
 
 * _Energy/Performance Trade-Off in RANs with Dynamic Management of Frequency Bands_ - Diletta Olliaro (Ca' Foscari University of Venice), Michela Meo (Politecnico di Torino), Matteo Sereno (Università di Torino), Andrea Marin (University Ca’ Foscari of Venice), Marco Ajmone Marsan (IMDEA Networks Institute)
 * _Dispatching Odyssey: Exploring Performance in Computing Clusters under Real-World Workloads_ - Mert Yildiz (University of Rome Sapienza), Alexey Rolich (University of Rome Sapienza), Andrea Baiocchi (University of Rome Sapienza)
-* _Sparse Mean Field Load Balancing in Large Localized Queueing Systems_ - Anam Tahir (Leibniz Universität Hannover), Kai Cui (Technische Universität Darmstadt), Heinz Koeppl (Technische Universität Darmstadt), Anam Tahir (University of Duisburg Essen)
 * _A Fast Algorithm for Multiserver Queueing Systems with Setup Times and Power-saving Modes_ - Thu Le-Anh (University of Tsukuba), Tuan Phung-Duc (University of Tsukuba)
 * _On The Evolution of Home Gateways_ - Tim Neubert (University of Augsburg), Rolf Winter (Technical University of Applied Sciences Augsburg), Jonas Winkler (Technical University of Applied Sciences Augsburg)
 * _Server Selection and Inference Rate Optimization in AoI-Driven Distributed Systems_ - Leonardo Badia (Università di Padova), Paolo Castagno (Università di Torino), Vincenzo Mancuso (IMDEA Networks Institute), Matteo Sereno (Università di Torino), Marco Ajmone Marsan (IMDEA Networks Institute)

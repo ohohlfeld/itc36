@@ -104,6 +104,10 @@ _Server Selection and Inference Rate Optimization in AoI-Driven Distributed Syst
 
 _A Discrete-Time Model of the 5G New Radio Uplink Channel_ - Simon Raffeck (University of Wuerzburg), Sebastian Gilje Grøsvik (NTNU), Laura Becker (Technical University of Munich), Stanislav Lange (NTNU), Stefan Geissler (University of Wuerzburg), Thomas Zinner (NTNU), Wolfgang Kellerer (Technical University of Munich), Tobias Hoßfeld (University of Würzburg)
 
+_Pareto Optimal Energy Efficiency Power Allocation: Coping With Highly Constraints in NOMA Uplink Dense Access VLC Network - Linlin Zhao (Jilin University)
+<div style="width:80%; border:1px solid red;margin:auto;padding:5px;background-color:#F0F8FF">
+Paper: Yuchao Dang, Xuefen Chi, Linlin Zhao, "Pareto Optimal Energy Efficiency Power Allocation: Coping With Highly Constraints in NOMA Uplink Dense Access VLC Network," IEEE Transactions on Green Communications and Networks, Volume 8, Issue 4, June 2024, https://doi.org/10.1109/TGCN.2024.3408160. </div>
+
 **14:00-15:00 Technical Session V: Simulation**
 
 _Dispatching Odyssey: Exploring Performance in Computing Clusters under Real-World Workloads_ - Mert Yildiz (University of Rome Sapienza), Alexey Rolich (University of Rome Sapienza), Andrea Baiocchi (University of Rome Sapienza)

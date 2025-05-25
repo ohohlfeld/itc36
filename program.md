@@ -65,7 +65,7 @@ _Continuous Integration for Networks Supporting Low-Latency Using Hybrid Network
 
 **14:00-15:30 PhD Workshop: Selected Presentations and Lightning Talks**
 
-_Stochastic Models for Remote Timing Attacks_ - Simone Bozzolan, Ca' Foscari University of Venice, Italy
+_Stochastic Models for Remote Timing Attacks_ - Diletta Olliaro , Ca' Foscari University of Venice, Italy
 
 _Conducting Time-synchronized Measurements in 5G Campus Networks_ - Simon Raffeck, University of Wuerzburg, Germany
 

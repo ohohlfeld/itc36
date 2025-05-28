@@ -17,6 +17,8 @@ The technical sessions and the PhD workshop of ITC36 will take place from Monday
 
 ## Monday
 
+ <a href="https://s.ntnu.no/day1">Click here for remote participation</a>
+
 **9:15-10:30 <a href="{{ site.baseurl }}/keynotes.html#keynote-I">Keynote I</a>**
 
 _Living on the Edge for a Quarter Century: A Personal Retrospective_ - Ramesh K. Sitaraman (University of Massachusetts Amherst and Akamai Technologies)
@@ -50,6 +52,8 @@ _Sender-Based Approach to Reducing the Bufferbloat in Heterogeneous 5G Networks_
 _Scalable Verification of Routing Loops in Multi-Protocol Multi-Instance IP Networks_ - Youcef Magnouche (Huawei Technologies), Sebastien Martin (Huawei Technologies), Jeremie Leguay (Huawei Technologies), Cong Mei (Huawei Technologies), Jeremie Leguay (Nokia Bell Labs)
 
 ## Tuesday
+
+ <a href="https://s.ntnu.no/day2">Click here for remote participation</a>
 
 **9:15-10:30 <a href="{{ site.baseurl }}/keynotes.html#arne-jensen-lifetime-award">Award Session</a>**
 
@@ -88,10 +92,12 @@ _Conducting Time-synchronized Measurements in 5G Campus Networks_ - Simon Raffec
 **15:30-16:30 Extended Coffee Break with Poster Session**
 
 
-**16:30-17:30 70 Years ITC Celebration
+**16:30-17:30 70 Years ITC Celebration**
 
 
 ## Wednesday
+
+ <a href="https://s.ntnu.no/day3">Click here for remote participation</a>
 
 **9:15-10:30 <a href="{{ site.baseurl }}/keynotes.html#keynote-II">Keynote II</a>**
 

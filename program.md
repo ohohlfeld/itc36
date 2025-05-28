@@ -17,7 +17,7 @@ The technical sessions and the PhD workshop of ITC36 will take place from Monday
 
 ## Monday
 
- <a href="https://s.ntnu.no/day1">Click here for remote participation</a>
+ <a href="https://s.ntnu.no/itc36_day1">Click here to participate remotely on Monday</a>
 
 **9:15-10:30 <a href="{{ site.baseurl }}/keynotes.html#keynote-I">Keynote I</a>**
 
@@ -53,7 +53,7 @@ _Scalable Verification of Routing Loops in Multi-Protocol Multi-Instance IP Netw
 
 ## Tuesday
 
- <a href="https://s.ntnu.no/day2">Click here for remote participation</a>
+ <a href="https://s.ntnu.no/itc36_day2">Click here to participate remotely on Tuesday</a>
 
 **9:15-10:30 <a href="{{ site.baseurl }}/keynotes.html#arne-jensen-lifetime-award">Award Session</a>**
 
@@ -97,7 +97,7 @@ _Conducting Time-synchronized Measurements in 5G Campus Networks_ - Simon Raffec
 
 ## Wednesday
 
- <a href="https://s.ntnu.no/day3">Click here for remote participation</a>
+ <a href="https://s.ntnu.no/itc36_day3">Click here to participate remotely on Wednesday</a>
 
 **9:15-10:30 <a href="{{ site.baseurl }}/keynotes.html#keynote-II">Keynote II</a>**
 

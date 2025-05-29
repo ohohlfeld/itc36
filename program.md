@@ -21,9 +21,13 @@ The technical sessions and the PhD workshop of ITC36 will take place from Monday
 
 **9:15-10:30 <a href="{{ site.baseurl }}/keynotes.html#keynote-I">Keynote I</a>**
 
+Session Chair: Sara Alouf (INRIA)
+
 _Living on the Edge for a Quarter Century: A Personal Retrospective_ - Ramesh K. Sitaraman (University of Massachusetts Amherst and Akamai Technologies)
 
 **11:00-12:30 Technical Session I: Energy Savings**
+
+Session Chair: Stefano Secci (CNAM)
 
 _Energy/Performance Trade-Off in RANs with Dynamic Management of Frequency Bands_ - Diletta Olliaro (Ca' Foscari University of Venice), Michela Meo (Politecnico di Torino), Matteo Sereno (Università di Torino), Andrea Marin (University Ca’ Foscari of Venice), Marco Ajmone Marsan (IMDEA Networks Institute)
 
@@ -32,7 +36,9 @@ _Network Sharing: a pathway to Sustainability and Carbon Footprint Mitigation in
 _A Fast Algorithm for Multiserver Queueing Systems with Setup Times and Power-saving Modes_ - Thu Le-Anh (University of Tsukuba), Tuan Phung-Duc (University of Tsukuba)
 
 
-**14:00-15:30 Invited Session - What's new In PEVA?**
+**13:45-15:30 Invited Session - What's new In PEVA?**
+
+Session Chair: Y.C. Tay (NUS)
 
 _Energy-Efficient Server Operations with Batch Processing and Setup Delays in Data Centers_ - Thu Le-Anh (University of Tsukuba, Tsukuba, Japan)
 <div style="width:80%; border:1px solid red;margin:auto;padding:5px;background-color:#F0F8FF">Paper: Thu Le-Anh, Tuan Phung-Duc, "Energy-performance tradeoffs in server farms with batch services and setup times," Performance Evaluation, Volume 168, June 2025, 102468, https://doi.org/10.1016/j.peva.2025.102468.</div>
@@ -44,6 +50,8 @@ _Dimensioning Leaky Buckets in Stochastic Environments_ - András Mészáros (Bu
 <div style="width:80%; border:1px solid red;margin:auto;padding:5px;background-color:#F0F8FF">Paper: Peter Buchholz, András Mészáros, Miklós Telek, "Dimensioning leaky buckets in stochastic environments," Performance Evaluation, Volume 167, March 2025, 102461, https://doi.org/10.1016/j.peva.2024.102461.</div>
 
 **16:00-17:30 Technical Session II: Reliability**
+
+Session Chair: Daniela Renga (Politecnico di Torino)
 
 _Providing Throughput Guarantees in Multi-Domain Networks in 6G_ - Fidan Mehmeti (Chair of Communications Networks, Technical University of Munich), Wolfgang Kellerer (Technical University of Munich)
 
@@ -57,9 +65,13 @@ _Scalable Verification of Routing Loops in Multi-Protocol Multi-Instance IP Netw
 
 **9:15-10:30 <a href="{{ site.baseurl }}/keynotes.html#arne-jensen-lifetime-award">Award Session</a>**
 
+Session Chair: Sabine Wittevrongel (Ghent University)
+
 _Arne Jensen Lifetime Award_ - Deep Medhi (Program Director, U.S. National Science Foundation)
 
 **11:00-12:30 Technical Session III: Measurements**
+
+Session Chair: Andras Meszaros (BME)
 
 _On The Evolution of Home Gateways_ - Tim Neubert (University of Augsburg), Rolf Winter (Technical University of Applied Sciences Augsburg), Jonas Winkler (Technical University of Applied Sciences Augsburg)
 
@@ -68,6 +80,8 @@ _DDoS on Repeat: Measuring Pulse-Wave DDoS in the Wild_ - Daniel Kopp (DE-CIX), 
 _Continuous Integration for Networks Supporting Low-Latency Using Hybrid Network Emulation_ - Florian Wiedner (Technical University of Munich), Dominik Kreutzer (Technical University of Munich), Jonas Andre (Technical University of Munich), Georg Carle (Technical University of Munich)
 
 **14:00-15:30 PhD Workshop: Selected Presentations and Lightning Talks**
+
+Session Chairs: Amr Rizk (University of Hannover), Francescomaria Faticanti (ENS Lyon)
 
 _Stochastic Models for Remote Timing Attacks_ - Diletta Olliaro , Ca' Foscari University of Venice, Italy
 
@@ -101,10 +115,13 @@ _Conducting Time-synchronized Measurements in 5G Campus Networks_ - Simon Raffec
 
 **9:15-10:30 <a href="{{ site.baseurl }}/keynotes.html#keynote-II">Keynote II</a>**
 
+Session Chair: Thomas Zinner (NTNU)
+
 _Revolutionizing Datacenter Networks with Optical Circuit Switches and Self-Adjusting Topologies_ - Stefan Schmid (Technical University of Berlin, Germany)
 
 **11:00-12:30 Technical Session IV: Optimization**
 
+Session Chair: Michela Meo (Politecnico di Torino)
 
 _Server Selection and Inference Rate Optimization in AoI-Driven Distributed Systems_ - Leonardo Badia (Università di Padova), Paolo Castagno (Università di Torino), Vincenzo Mancuso (IMDEA Networks Institute), Matteo Sereno (Università di Torino), Marco Ajmone Marsan (IMDEA Networks Institute)
 
@@ -115,6 +132,8 @@ _Pareto Optimal Energy Efficiency Power Allocation: Coping With Highly Constrain
 Paper: Yuchao Dang, Xuefen Chi, Linlin Zhao, "Pareto Optimal Energy Efficiency Power Allocation: Coping With Highly Constraints in NOMA Uplink Dense Access VLC Network," IEEE Transactions on Green Communications and Networks, Volume 8, Issue 4, June 2024, https://doi.org/10.1109/TGCN.2024.3408160. </div>
 
 **14:00-15:00 Technical Session V: Simulation**
+
+Session Chair: Poul Heegaard (NTNU)
 
 _Dispatching Odyssey: Exploring Performance in Computing Clusters under Real-World Workloads_ - Mert Yildiz (University of Rome Sapienza), Alexey Rolich (University of Rome Sapienza), Andrea Baiocchi (University of Rome Sapienza)
 

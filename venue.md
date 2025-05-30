@@ -16,17 +16,25 @@ The room that will be used for the main conference is the **EL-6** that is reach
 
 ## Social Activities
 
+We have planned exciting evenings in different parts of the city. We will join location directly after the end of the conference day, using public transport.
+
 **Welcome Reception**<br>
 
 The Welcome Reception will take place at the [Cafe Victoria](https://ringve.no/en/caf-victoria), located in the Ringve Musical Museum, surrounded by the [botanical garden](https://www.ntnu.edu/museum/ringve-botanical-garden). Go for a walk, experience a diversity of plants, shrubs and trees, find inspiration for your own garden or simply relax while enjoying the view on the fjord. The venue can easily be reached via the bus lines 2 and 20.
+
+The events starts at 19:00.
 
 **Social Event**<br>
 
 The Social Event on Tuesday will provide us a different perspective on Trondheim. Traveling by sea, through the fjords and on the rivers has always been an important part of life in Norway, and we will travel back through the history of Trondheim while floating down the city river Nidelva. Following this experience we will have dinner in the restaurant [Troll](https://trollrestaurant.no/).
 
+The boat tour begins at 18:30, please make sure to be there at 18:15 at the [meeting point](https://www.google.com/maps/place/Ravnkloa,+Trondheim/@63.4339066,10.3901093,788m/data=!3m2!1e3!4b1!4m6!3m5!1s0x466d319ca85ff08b:0x6841bc7cf356390b!8m2!3d63.4337736!4d10.3923333!16s%2Fg%2F11c3q4gvj_?entry=ttu&g_ep=EgoyMDI1MDUyNy4wIKXMDSoASAFQAw%3D%3D).
+
 **Visit to Sverresborg Folk Museum**<br>
 
 On Wednesday we will jointly have dinner with the participants of the WONECA workshop at the [Sverresborg Folkmuseum](https://sverresborg.no/en). Sverresborg Trøndelag Folk Museum is an open-air museum in picturesque surroundings around the ruins of King Sverre’s Castle, Norway’s oldest medieval castle.  
+
+Please meet [there](https://www.google.com/maps/place/Sverresborg+Tr%C3%B8ndelag+Folk+Museum/@63.4211886,10.3543271,394m/data=!3m1!1e3!4m14!1m7!3m6!1s0x466d3218c527b4a3:0x2b338c80c9d887c0!2sSverresborg+Tr%C3%B8ndelag+Folk+Museum!8m2!3d63.4211886!4d10.356902!16s%2Fg%2F122n0f9k!3m5!1s0x466d3218c527b4a3:0x2b338c80c9d887c0!8m2!3d63.4211886!4d10.356902!16s%2Fg%2F122n0f9k?entry=ttu&g_ep=EgoyMDI1MDUyNy4wIKXMDSoASAFQAw%3D%3D) at 18:30.
 
 
 ## Hotels

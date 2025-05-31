@@ -145,6 +145,8 @@ _Mobility Aware Task Migration in Vehicular Edge Computing Networks_ - Rim Sayeg
 
 ## Wednesday
 
+ <a href="https://s.ntnu.no/woneca_day1">Click here to participate remotely on Wednesday</a>
+
 **15:15-15:45 Workshop Registration and Coffee Break**
 
 **15:45-17:30 Opening and Session I: Stochastic Network Calculus**
@@ -163,6 +165,8 @@ _Statistical Delay QoS Optimization for XR Traffic over WiFi Networks_ - Linlin 
 
 
 ## Thursday
+
+ <a href="https://s.ntnu.no/woneca_day2">Click here to participate remotely on Thursday</a>
 
 **09:15-10:30 Session II: Deterministic Network Calculus**
 

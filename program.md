@@ -79,13 +79,9 @@ _DDoS on Repeat: Measuring Pulse-Wave DDoS in the Wild_ - Daniel Kopp (DE-CIX), 
 
 _Continuous Integration for Networks Supporting Low-Latency Using Hybrid Network Emulation_ - Florian Wiedner (Technical University of Munich), Dominik Kreutzer (Technical University of Munich), Jonas Andre (Technical University of Munich), Georg Carle (Technical University of Munich)
 
-**14:00-15:30 PhD Workshop: Selected Presentations and Lightning Talks**
+**14:00-14:30 PhD Workshop: Lightning Talks**
 
 Session Chairs: Amr Rizk (University of Hannover), Francescomaria Faticanti (ENS Lyon)
-
-_Stochastic Models for Remote Timing Attacks_ - Diletta Olliaro , Ca' Foscari University of Venice, Italy
-
-_Conducting Time-synchronized Measurements in 5G Campus Networks_ - Simon Raffeck, University of Wuerzburg, Germany
 
 Lightning Talks
 
@@ -103,10 +99,16 @@ _Parameterizing 5G NR to Enable Novel Mobile Use Cases_ - Sebastian G. Grøsvik
 
 _Conducting Time-synchronized Measurements in 5G Campus Networks_ - Simon Raffeck, Stefan Geißler and Tobias Hoßfeld
 
-**15:30-16:30 Extended Coffee Break with Poster Session**
+**14:30-15:30 Extended Coffee Break with Poster Session**
+
+**15:30-16:20 Selected Presentations from PhD Students**
+
+_Stochastic Models for Remote Timing Attacks_ - Diletta Olliaro , Ca' Foscari University of Venice, Italy
+
+_Conducting Time-synchronized Measurements in 5G Campus Networks_ - Simon Raffeck, University of Wuerzburg, Germany
 
 
-**16:30-17:30 70 Years ITC Celebration**
+**16:20-17:30 70 Years ITC Celebration**
 
 
 ## Wednesday

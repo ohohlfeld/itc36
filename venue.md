@@ -24,6 +24,10 @@ The Welcome Reception will take place at the [Cafe Victoria](https://ringve.no/e
 
 The events starts at 19:00.
 
+We plan to leave the conference location at latest at 17:45 and walk to the bus stop "Studentersammfunnet 1". From there we aim to take bus numer 2 at 18:04 until the bus stop "Ingemann Torps vei". From there it is a 5 minutes walk to the location of the welcome reception.
+
+We will serve finger food and a welcome drink at the reception. After that you can visit the Botanic Garden or join us for a walk back to the city center along the coast. The trail is well accessible, and it is possible to vary length and alltidue depending on the personal preferences.
+
 **Social Event**<br>
 
 The Social Event on Tuesday will provide us a different perspective on Trondheim. Traveling by sea, through the fjords and on the rivers has always been an important part of life in Norway, and we will travel back through the history of Trondheim while floating down the city river Nidelva. Following this experience we will have dinner in the restaurant [Troll](https://trollrestaurant.no/).

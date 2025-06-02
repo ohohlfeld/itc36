@@ -110,6 +110,11 @@ _Conducting Time-synchronized Measurements in 5G Campus Networks_ - Simon Raffec
 
 **16:20-17:30 70 Years ITC Celebration**
 
+<a href="{{ site.baseurl }}/assets/celebration/ITC_Anniversary70-memories_v2.0.pdf"> A look back at ITC </a> by Prosper Chemouil, Gerald A. Ash, James W. Roberts.
+<a href="{{ site.baseurl }}/assets/celebration/ITC_Abdulhalin.mp4">ITC Memories </a> by Abdulhalin Dandoush.
+<a href="{{ site.baseurl }}/assets/celebration/ITC36_Greeting_Markus_Fiedler.mp4">ITC Greetings</a> by Markus Fiedler.
+
+
 
 ## Wednesday
 

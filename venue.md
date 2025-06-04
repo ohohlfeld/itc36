@@ -38,7 +38,10 @@ The boat tour begins at 18:30, please make sure to be there at 18:15 at the [mee
 
 On Wednesday we will jointly have dinner with the participants of the WONECA workshop at the [Sverresborg Folkmuseum](https://sverresborg.no/en). Sverresborg Trøndelag Folk Museum is an open-air museum in picturesque surroundings around the ruins of King Sverre’s Castle, Norway’s oldest medieval castle.  
 
-Please meet [there](https://www.google.com/maps/place/Sverresborg+Tr%C3%B8ndelag+Folk+Museum/@63.4211886,10.3543271,394m/data=!3m1!1e3!4m14!1m7!3m6!1s0x466d3218c527b4a3:0x2b338c80c9d887c0!2sSverresborg+Tr%C3%B8ndelag+Folk+Museum!8m2!3d63.4211886!4d10.356902!16s%2Fg%2F122n0f9k!3m5!1s0x466d3218c527b4a3:0x2b338c80c9d887c0!8m2!3d63.4211886!4d10.356902!16s%2Fg%2F122n0f9k?entry=ttu&g_ep=EgoyMDI1MDUyNy4wIKXMDSoASAFQAw%3D%3D) at 18:30.
+Please meet [there](https://www.google.com/maps/place/Sverresborg+Tr%C3%B8ndelag+Folk+Museum/@63.4211886,10.3543271,394m/data=!3m1!1e3!4m14!1m7!3m6!1s0x466d3218c527b4a3:0x2b338c80c9d887c0!2sSverresborg+Tr%C3%B8ndelag+Folk+Museum!8m2!3d63.4211886!4d10.356902!16s%2Fg%2F122n0f9k!3m5!1s0x466d3218c527b4a3:0x2b338c80c9d887c0!8m2!3d63.4211886!4d10.356902!16s%2Fg%2F122n0f9k?entry=ttu&g_ep=EgoyMDI1MDUyNy4wIKXMDSoASAFQAw%3D%3D) at 19:00.
+
+We will go down to the bus stop Studentersammfunnet around 17:50 and take bus 18 at 18:17 to Sverresborg. Bus 18 runs every 20 minutes, and also stops at Nidarosdomen and Kongens Gate.
+
 
 
 ## Hotels
